@@ -268,6 +268,7 @@ def build_gameplay_mode() -> dict:
                         "style": False,
                         "content": [
                             {"section": "Huddle", "style": {"flex": "1"}},
+                            {"section": "Baron",  "style": {"width": "14vh", "background": "rgba(255, 180, 0, 0.2)", "border": "0.3vh solid rgba(255, 200, 60, 0.8)", "borderRadius": "1vh", "marginLeft": "0.5vh"}},
                         ],
                         "isSymetricalForOpponents": True,
                     },
@@ -277,7 +278,6 @@ def build_gameplay_mode() -> dict:
                         "content": [
                             {"section": "Deck",  "style": {"width": "12vh"}},
                             {"section": "Rods",  "style": {"flex": "1"}},
-                            {"section": "Baron", "style": {"width": "22vh", "background": "rgba(255, 180, 0, 0.35)", "border": "0.4vh solid rgba(255, 200, 60, 0.95)", "borderRadius": "1vh", "boxShadow": "0 0 2vh rgba(255, 180, 0, 0.6)"}},
                             {"section": "Ice",   "style": {"width": "16vh"}},
                         ],
                         "isSymetricalForOpponents": True,
@@ -340,12 +340,12 @@ def build_gameplay_mode() -> dict:
                 },
                 "Baron": {
                     "isHidden": "no",
-                    "height": "MEDIUM",
+                    "height": "SMALL",
                     "alignment": "CENTER",
                     "opponentAlignment": False,
                     "noAutoPayTo": True,
-                    "isHorizontalAllowed": True,
-                    "displayedTitle": "Baron's Favor",
+                    "isHorizontalAllowed": False,
+                    "displayedTitle": "Baron",
                     "noQuickActions": False,
                     "enterTapped": False,
                     "enterSpun": False,
