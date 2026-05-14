@@ -76,21 +76,21 @@
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": true,
-        "firstPlayerTokenName": "Baron's Favor",
+        "firstPlayerTokenName": "",
         "drawPerTurn": "0"
       },
       "defaultNotes": "Track permanents (Rods + Huddle) and vibe totals here.",
-      "tokens": [],
+      "tokens": [
+        {
+          "name": "Baron's Favor",
+          "image": "https://deuceyy.github.io/tcgarena-vibes/tokens/baron-token.png"
+        }
+      ],
       "countersStartingValues": [
         0
       ],
       "hideFacedDownCards": true,
       "draggableTokens": [
-        {
-          "id": "baron-favor",
-          "name": "Baron's Favor",
-          "image": "https://deuceyy.github.io/tcgarena-vibes/tokens/baron-token.png"
-        },
         {
           "id": "vibe-counter",
           "name": "Vibe Counter",

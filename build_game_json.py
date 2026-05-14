@@ -244,19 +244,19 @@ def build_gameplay_mode() -> dict:
         "newTurn": {
             "drawOnStart": False,
             "sharedTurn": True,
-            "firstPlayerTokenName": "Baron's Favor",
+            "firstPlayerTokenName": "",
             "drawPerTurn": "0",
         },
         "defaultNotes": "Track permanents (Rods + Huddle) and vibe totals here.",
-        "tokens": [],
-        "countersStartingValues": [0],
-        "hideFacedDownCards": True,
-        "draggableTokens": [
+        "tokens": [
             {
-                "id": "baron-favor",
                 "name": "Baron's Favor",
                 "image": f"{BASE_URL}/tokens/baron-token.png",
             },
+        ],
+        "countersStartingValues": [0],
+        "hideFacedDownCards": True,
+        "draggableTokens": [
             {
                 "id": "vibe-counter",
                 "name": "Vibe Counter",
