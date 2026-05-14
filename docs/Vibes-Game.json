@@ -49,20 +49,8 @@
         "boardCardSelection": [],
         "chooseAnotherStartingPlayer": true,
         "initialBoardSetup": {
-          "0": [
-            {
-              "drawFromTop": "Deck",
-              "count": 5,
-              "destination": "Hand"
-            }
-          ],
-          "1": [
-            {
-              "drawFromTop": "Deck",
-              "count": 5,
-              "destination": "Hand"
-            }
-          ]
+          "0": [],
+          "1": []
         }
       },
       "mulligan": {
@@ -82,7 +70,7 @@
             "min": 0,
             "max": 5
           },
-          "keepCardOrder": true
+          "keepCardsOrder": true
         }
       },
       "newTurn": {

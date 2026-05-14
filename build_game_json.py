@@ -228,10 +228,7 @@ def build_gameplay_mode() -> dict:
             "boardCategoriesInSideboard": [],
             "boardCardSelection": [],
             "chooseAnotherStartingPlayer": True,
-            "initialBoardSetup": {
-                "0": [{"drawFromTop": "Deck", "count": 5, "destination": "Hand"}],
-                "1": [{"drawFromTop": "Deck", "count": 5, "destination": "Hand"}],
-            },
+            "initialBoardSetup": {"0": [], "1": []},
         },
         "mulligan": {
             "triggeredByButton": True,
@@ -241,7 +238,7 @@ def build_gameplay_mode() -> dict:
                 "info": "Pick any cards to send to the bottom of your deck (no shuffle). You will redraw up to 5.",
                 "steps": ["toBottom", "draw"],
                 "selectionRange": {"min": 0, "max": 5},
-                "keepCardOrder": True,
+                "keepCardsOrder": True,
             },
         },
         "newTurn": {
