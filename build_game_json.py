@@ -277,7 +277,7 @@ def build_gameplay_mode() -> dict:
                         "content": [
                             {"section": "Deck",  "style": {"width": "12vh"}},
                             {"section": "Rods",  "style": {"flex": "1"}},
-                            {"section": "Baron", "style": {"width": "10vh"}},
+                            {"section": "Baron", "style": {"width": "18vh", "background": "linear-gradient(180deg, rgba(255,180,0,0.15) 0%, rgba(255,180,0,0) 100%)", "borderRadius": "1vh"}},
                             {"section": "Ice",   "style": {"width": "16vh"}},
                         ],
                         "isSymetricalForOpponents": True,
@@ -340,11 +340,11 @@ def build_gameplay_mode() -> dict:
                 },
                 "Baron": {
                     "isHidden": "no",
-                    "height": "SMALL",
+                    "height": "MEDIUM",
                     "alignment": "CENTER",
                     "opponentAlignment": False,
                     "noAutoPayTo": True,
-                    "isHorizontalAllowed": False,
+                    "isHorizontalAllowed": True,
                     "displayedTitle": "Baron's Favor",
                     "noQuickActions": False,
                     "enterTapped": False,

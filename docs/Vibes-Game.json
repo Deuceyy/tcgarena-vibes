@@ -129,7 +129,9 @@
                 {
                   "section": "Baron",
                   "style": {
-                    "width": "10vh"
+                    "width": "18vh",
+                    "background": "linear-gradient(180deg, rgba(255,180,0,0.15) 0%, rgba(255,180,0,0) 100%)",
+                    "borderRadius": "1vh"
                   }
                 },
                 {
@@ -206,11 +208,11 @@
           },
           "Baron": {
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
+            "isHorizontalAllowed": true,
             "displayedTitle": "Baron's Favor",
             "noQuickActions": false,
             "enterTapped": false,
