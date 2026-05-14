@@ -248,12 +248,7 @@ def build_gameplay_mode() -> dict:
             "drawPerTurn": "0",
         },
         "defaultNotes": "Track permanents (Rods + Huddle) and vibe totals here.",
-        "tokens": [
-            {
-                "name": "Baron's Favor",
-                "image": f"{BASE_URL}/tokens/baron-token.png",
-            },
-        ],
+        "tokens": [],
         "countersStartingValues": [0],
         "hideFacedDownCards": True,
         "draggableTokens": [
@@ -282,6 +277,7 @@ def build_gameplay_mode() -> dict:
                         "content": [
                             {"section": "Deck",  "style": {"width": "12vh"}},
                             {"section": "Rods",  "style": {"flex": "1"}},
+                            {"section": "Baron", "style": {"width": "10vh"}},
                             {"section": "Ice",   "style": {"width": "16vh"}},
                         ],
                         "isSymetricalForOpponents": True,
@@ -342,6 +338,21 @@ def build_gameplay_mode() -> dict:
                     "keepTappedNewTurn": False,
                     "showHiddenCardInHistory": False,
                 },
+                "Baron": {
+                    "isHidden": "no",
+                    "height": "SMALL",
+                    "alignment": "CENTER",
+                    "opponentAlignment": False,
+                    "noAutoPayTo": True,
+                    "isHorizontalAllowed": False,
+                    "displayedTitle": "Baron's Favor",
+                    "noQuickActions": False,
+                    "enterTapped": False,
+                    "enterSpun": False,
+                    "isGroupForbidden": True,
+                    "keepTappedNewTurn": False,
+                    "showHiddenCardInHistory": False,
+                },
                 "Stack": {
                     "isDefaultSection": True,
                     "isHidden": "no",
@@ -387,6 +398,36 @@ def main():
 
     print("\n[3/4] transforming card data")
     cardlist = {c["id"]: transform_card(c) for c in cards}
+
+    # Inject the synthetic Baron's Favor token. Not part of any set, never in
+    # a deck — spawned via right-click -> Create Tokens, then dragged into the
+    # Baron section of whichever player wins the cycle's vibe check.
+    cardlist["BaronFavor"] = {
+        "id": "BaronFavor",
+        "isToken": True,
+        "face": {
+            "front": {
+                "name": "Baron's Favor",
+                "type": "Token",
+                "cost": 0,
+                "image": {"en": f"{BASE_URL}/tokens/baron-token.png"},
+                "isHorizontal": False,
+            }
+        },
+        "name": "Baron's Favor",
+        "type": "Token",
+        "cost": 0,
+        "costColor": "",
+        "color": [],
+        "rarity": "",
+        "set": "Tokens",
+        "vibe": None,
+        "pudgeAmount": None,
+        "pudgeColor": None,
+        "rulesText": "Indicates which player currently holds the Baron's Favor. Does not count toward the 15-permanent win condition.",
+        "_legal": {"VIBES": False},
+    }
+
     token_count = sum(1 for c in cardlist.values() if c["isToken"])
     deckable = len(cardlist) - token_count
     print(f"  cards: {len(cardlist)} ({deckable} deckable + {token_count} tokens)")

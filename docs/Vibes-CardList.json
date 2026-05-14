@@ -10920,5 +10920,34 @@
     "_legal": {
       "VIBES": true
     }
+  },
+  "BaronFavor": {
+    "id": "BaronFavor",
+    "isToken": true,
+    "face": {
+      "front": {
+        "name": "Baron's Favor",
+        "type": "Token",
+        "cost": 0,
+        "image": {
+          "en": "https://deuceyy.github.io/tcgarena-vibes/tokens/baron-token.png"
+        },
+        "isHorizontal": false
+      }
+    },
+    "name": "Baron's Favor",
+    "type": "Token",
+    "cost": 0,
+    "costColor": "",
+    "color": [],
+    "rarity": "",
+    "set": "Tokens",
+    "vibe": null,
+    "pudgeAmount": null,
+    "pudgeColor": null,
+    "rulesText": "Indicates which player currently holds the Baron's Favor. Does not count toward the 15-permanent win condition.",
+    "_legal": {
+      "VIBES": false
+    }
   }
 }
