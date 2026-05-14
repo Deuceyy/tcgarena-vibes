@@ -1,0 +1,3608 @@
+[
+  {
+    "id": "LilShaker",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Lil Shaker",
+    "cardText": "[ACT] _F_, pick two cards in your ice and put them on the bottom of your deck: Choose a Red Penguin. That Penguin produces _R__R__R_ for the rest of this Cycle. ",
+    "artUrl": "1026",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilBamboo",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Lil Bamboo",
+    "cardText": "",
+    "artUrl": "1087",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilWhoBreaksFree",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Lil Who Breaks Free",
+    "cardText": "Whenever this Penguin leaves the huddle, draw a card.",
+    "artUrl": "1150",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 3,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilDaydreamer",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Lil Daydreamer",
+    "cardText": "[ACT] _F_: Choose a Penguin with vibe 3 or less. Ice that Penguin and ice this Penguin.",
+    "artUrl": "1005",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": 3,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "TheLordOfLightning",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "The Lord of Lightning",
+    "cardText": "Whenever a Lil in your huddle is flopped, boost this Penguin's vibe by 1 for the rest of this Cycle.",
+    "artUrl": "1125",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilSinger",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Lil Singer",
+    "cardText": "[ACT] _F_: Choose another unflopped Penguin in your huddle and flop it. Put a vibe counter on that Penguin.",
+    "artUrl": "1041",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 5,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "SquibblestoneTheWise",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Squibblestone the Wise",
+    "cardText": "[ACT] _R__B_, _F_: Choose a flopped Lil and ice it.",
+    "artUrl": "1094",
+    "border": "Red",
+    "rarity": "Rare",
+    "vibe": 1,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilComic",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Lil Comic",
+    "cardText": "When this Penguin enters the huddle, choose a player. That player reveals their hand. You may pick a Penguin card from their hand and ice it. If you do, that player draws a card.",
+    "artUrl": "1076",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": 1,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "PenguinWhoShakes",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Penguin Who Shakes",
+    "cardText": "Whenever you play a Red Action, put a vibe counter on this Penguin. As long as it has 3 or more vibe counters, it produces _R__R__R_ and has  the ability \"Whenever this Penguin is flopped, remove 3 vibe counters from it\".",
+    "artUrl": "1070",
+    "border": "Red",
+    "rarity": "Rare",
+    "vibe": 1,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilIntrovert",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Lil Introvert",
+    "cardText": "Whenever this Penguin is flopped, boost its vibe by 7 for the rest of this Cycle.",
+    "artUrl": "1001",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 7,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "SimonSmasher",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Simon Smasher",
+    "cardText": "This Penguin can only [ACT] if you've played a Red Action this Cycle. [ACT] _F_: Choose a Relic and ice it.",
+    "artUrl": "1100",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": 1,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilJuggler",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Lil Juggler",
+    "cardText": "Enters flopped. [ACT] _F_: Choose an Action. Cancel it, return it to its owner's hand, and return this Penguin to its owner's hand.",
+    "artUrl": "1010",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 5,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilZoomer",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Lil Zoomer",
+    "cardText": "When this Penguin enters the huddle, choose a non-Speedy Penguin and return it to its owner's hand.",
+    "artUrl": "1009",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": 3,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilInsomniac",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Lil Insomniac",
+    "cardText": "Whenever you play a Red Action, put vibe counters on this Penguin equal to the Pudge cost of that Action.",
+    "artUrl": "1012",
+    "border": "Red",
+    "rarity": "Rare",
+    "vibe": 1,
+    "cost": {
+      "amount": 8,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "PackAttack",
+    "color": "Red",
+    "type": "Action",
+    "name": "Pack Attack",
+    "cardText": "Open a Vibes booster pack, reveal the cards, and put one of them into your hand. (A list of legal packs can be found at vibes.game/packattack).",
+    "artUrl": "1129",
+    "border": "Red",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "TossUp",
+    "color": "Red",
+    "type": "Action",
+    "name": "Toss Up",
+    "cardText": "Flip a coin. If heads, draw a card. If tails, return this Action to your hand.",
+    "artUrl": "1139",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "HoneyIShrunkThePengs",
+    "color": "Red",
+    "type": "Action",
+    "name": "Honey, I Shrunk the Pengs",
+    "cardText": "Choose a Penguin. That Penguin becomes a Lil for the rest of this Cycle. Draw a card.",
+    "artUrl": "1151",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "RideTheTrain",
+    "color": "Red",
+    "type": "Action",
+    "name": "Ride the Train",
+    "cardText": "Draw a card. You may move any number of other cards named \"Ride the Train\" from your ice to the bottom of your deck. If you do, draw a card for each card moved this way.",
+    "artUrl": "1046",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "EnterTheBounceHouseDimension",
+    "color": "Red",
+    "type": "Action",
+    "name": "Enter the Bounce House Dimension",
+    "cardText": "As an additional cost to play this Action, return a Rod you control to its owner's hand. Draw a card.",
+    "artUrl": "1133",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "BandTogether",
+    "color": "Red",
+    "type": "Action",
+    "name": "Band Together",
+    "cardText": "Search your deck for a Penguin card, reveal it, shuffle your deck, and put it on top.",
+    "artUrl": "1140",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "GoodnightPengs",
+    "color": "Red",
+    "type": "Action",
+    "name": "Goodnight, Pengs",
+    "cardText": "Your opponent's Actions and [ACT]s cannot ice or flop Penguins in your huddle for the rest of this Cycle.",
+    "artUrl": "1077",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 4,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "CrossTheRiver",
+    "color": "Red",
+    "type": "Action",
+    "name": "Cross the River",
+    "cardText": "Pick two non-Red Action cards in your ice and return them to your hand. This Action costs one less _R_ to play for each Action you've played this Cycle.",
+    "artUrl": "1130",
+    "border": "Red",
+    "rarity": "Mythic",
+    "vibe": null,
+    "cost": {
+      "amount": 8,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "Sheeeesh",
+    "color": "Red",
+    "type": "Action",
+    "name": "Sheeeesh!",
+    "cardText": "You can only play this Action if it's face-down as a Rod. Flip this card over to play it. This Action does nothing. Whenever you play a Red Action, return this card from your ice to your hand.",
+    "artUrl": "1014",
+    "border": "Red",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "HeresPengy",
+    "color": "Red",
+    "type": "Action",
+    "name": "Here's Pengy",
+    "cardText": "Look at the top card of your opponent's deck. Draw a card.",
+    "artUrl": "1064",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilPaper",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Lil Paper",
+    "cardText": "Whenever you win Vibe Check, put 2 vibe counters on each Scissors Penguin.",
+    "artUrl": "1114",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 3,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilRock",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Lil Rock",
+    "cardText": "Whenever you win Vibe Check, put 2 vibe counters on each Paper Penguin.",
+    "artUrl": "1113",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 3,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilScissors",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Lil Scissors",
+    "cardText": "Whenever you win Vibe Check, put 2 vibe counters on each Rock Penguin.",
+    "artUrl": "1115",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 3,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "PenguinWithLilMystique",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Penguin With Lil Mystique",
+    "cardText": "This Penguin doesn't participate in Vibe Check unless it has 6 or more vibe counters on it.",
+    "artUrl": "1047",
+    "border": "Yellow",
+    "rarity": "Uncommon",
+    "vibe": 7,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "PoppinPete",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Poppin' Pete",
+    "cardText": "When this Penguin enters the huddle, you may choose a Relic with Fish cost 5 or less. If you do, return it to its owner's hand.",
+    "artUrl": "1101",
+    "border": "Yellow",
+    "rarity": "Uncommon",
+    "vibe": 1,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilLeafrider",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Lil Leafrider",
+    "cardText": "",
+    "artUrl": "1088",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilLifeguard",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Lil Lifeguard",
+    "cardText": "[ACT] _F_, remove a vibe counter from this Penguin: Choose a Penguin and put 2 vibe counters on it.",
+    "artUrl": "1016",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilStargazer",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Lil Stargazer",
+    "cardText": "Whenever this Penguin is chosen by anything, put a vibe counter on it.",
+    "artUrl": "1007",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 5,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilExtrovert",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Lil Extrovert",
+    "cardText": "Whenever a Penguin in your huddle gets vibe counters from anything non-Silly, put a vibe counter on it.",
+    "artUrl": "1011",
+    "border": "Yellow",
+    "rarity": "Uncommon",
+    "vibe": 5,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "FrosterousTheGreat",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Frosterous the Great",
+    "cardText": "[ACT] _Y__G_, _F_: Choose a flopped Lil and ice it.",
+    "artUrl": "1096",
+    "border": "Yellow",
+    "rarity": "Rare",
+    "vibe": 1,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilRaker",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Lil Raker",
+    "cardText": "[ACT] _F_, pick two cards in your ice and put them on the bottom of your deck: Choose a Penguin and put 2 vibe counters on it.",
+    "artUrl": "1020",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 3,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilWindowWasher",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Lil Window Washer",
+    "cardText": "When this Penguin enters the huddle, you may flop up to four other Yellow Penguins in your huddle. If you do, put 2 vibe counters on this Penguin for each Penguin flopped this way.",
+    "artUrl": "1006",
+    "border": "Yellow",
+    "rarity": "Rare",
+    "vibe": 3,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "PenguinWhoRakes",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Penguin Who Rakes",
+    "cardText": "[ACT] _Y__Y__Y_, _F_: Choose a Penguin and put 3 vibe counters on it.",
+    "artUrl": "1072",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 3,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "TheChampionOfClouds",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "The Champion of Clouds",
+    "cardText": "Whenever another Lil enters a huddle, put a vibe counter on that Lil and put a vibe counter on this Lil.",
+    "artUrl": "1122",
+    "border": "Yellow",
+    "rarity": "Uncommon",
+    "vibe": 3,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "JosephinePartyQueen",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Josephine, Party Queen",
+    "cardText": "[ACT] _F_: The next time you put a vibe counter on a Penguin this Cycle, draw a card.",
+    "artUrl": "1085",
+    "border": "Yellow",
+    "rarity": "Rare",
+    "vibe": 5,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "SirWaddlesworth",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Sir Waddlesworth",
+    "cardText": "When this Penguin enters the huddle, put 5 vibe counters on each Yellow Penguin in your huddle.",
+    "artUrl": "1065",
+    "border": "Yellow",
+    "rarity": "Mythic",
+    "vibe": 3,
+    "cost": {
+      "amount": 9,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "FlopDropAndRoll",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "Flop, Drop, and Roll",
+    "cardText": "Choose a Lil or choose a Penguin with vibe 6 or less. Flop it.",
+    "artUrl": "1137",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "SeeTheBerg",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "See the Berg",
+    "cardText": "Choose a Penguin and put a vibe counter on it. Draw a card.",
+    "artUrl": "1075",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Yellow"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "BeMerryAndGo",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "Be Merry and Go",
+    "cardText": "As an additional cost to play this Action, remove all of the vibe counters on a Penguin in your huddle. Choose a Penguin with Fish cost less than or equal to the number of counters you removed this way and ice it.",
+    "artUrl": "1144",
+    "border": "Yellow",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Yellow"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "Frolic",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "Frolic",
+    "cardText": "Choose three Penguins. Put 3 vibe counters on each of them.",
+    "artUrl": "1082",
+    "border": "Yellow",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Yellow"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "IntoTheNight",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "Into the Night",
+    "cardText": "Choose an Action with Pudge cost less than or equal to the number of Lils in your huddle and cancel it.",
+    "artUrl": "1135",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Yellow"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "DoALilMath",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "Do a Lil Math",
+    "cardText": "Double the number of vibe counters on every Lil in your huddle.",
+    "artUrl": "1040",
+    "border": "Yellow",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 4,
+      "color": "Yellow"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "Jeepers",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "Jeepers!",
+    "cardText": "You can only play this Action if it's face-down as a Rod. Flip this card over to play it. Choose a Lil with no vibe counters. Return it to its owner's hand.",
+    "artUrl": "1060",
+    "border": "Yellow",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Yellow"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "Wen",
+    "color": "Yellow",
+    "type": "???",
+    "name": "Wen?",
+    "cardText": "Wen you draw this card, you may reveal it. If you do, choose up to one Penguin and put a vibe counter on it.",
+    "artUrl": "1044",
+    "border": "Yellow",
+    "rarity": "Rare",
+    "vibe": 1,
+    "cost": {
+      "amount": 0,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilWhoBlooms",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Lil Who Blooms",
+    "cardText": "",
+    "artUrl": "1089",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 1,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilBaker",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Lil Baker",
+    "cardText": "[ACT] _F_, pick two cards in your ice and put them on the bottom of your deck: You get a Fishsicle.",
+    "artUrl": "1018",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilSkydiver",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Lil Skydiver",
+    "cardText": "Whenever this Penguin wins Vibe Check, you get a Fishsicle.",
+    "artUrl": "1013",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 3,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "PenguinWhoBakes",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Penguin Who Bakes",
+    "cardText": "When this Penguin enters the huddle, you get a Fishsicle.",
+    "artUrl": "1069",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "TubbinsTheBold",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Tubbins the Bold",
+    "cardText": "[ACT] _G__P_, _F_: Choose a flopped Lil and ice it.",
+    "artUrl": "1092",
+    "border": "Green",
+    "rarity": "Rare",
+    "vibe": 1,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilPainter",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Lil Painter",
+    "cardText": "Whenever you play your first Action each Cycle, you get a Fishsicle.",
+    "artUrl": "1004",
+    "border": "Green",
+    "rarity": "Uncommon",
+    "vibe": 1,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "SamanthaFeathersPopIdol",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Samantha Feathers, Pop Idol",
+    "cardText": "You can only pay this Penguin's Fish cost with Fishsicles.",
+    "artUrl": "1086",
+    "border": "Green",
+    "rarity": "Uncommon",
+    "vibe": 11,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilChef",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Lil Chef",
+    "cardText": "When this Penguin enters the huddle, put a vibe counter on it. [ACT] _F_, remove a vibe counter from this Penguin: You get a Fishsicle.",
+    "artUrl": "1003",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 5,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "TheSaviorOfSkies",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "The Savior of Skies",
+    "cardText": "This Penguin's vibe is twice the number of Lils in your huddle.",
+    "artUrl": "1121",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilWhoCantStopEating",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Lil Who Can't Stop Eating",
+    "cardText": "Whenever you use a Fishsicle, put a vibe counter on this Penguin.",
+    "artUrl": "1081",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 3,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "SonOfLil",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Son of Lil",
+    "cardText": "Whenever you get Fishsicles from anything non-Silly, you get an additional Fishsicle.",
+    "artUrl": "1037",
+    "border": "Green",
+    "rarity": "Uncommon",
+    "vibe": 3,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "DimaTheDestroyer",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Dima the Destroyer",
+    "cardText": "[ACT] _F_: Choose a Relic and ice it. If it was a Relic you controlled, you get a Fishsicle.",
+    "artUrl": "1098",
+    "border": "Green",
+    "rarity": "Uncommon",
+    "vibe": 1,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilLodger",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Lil Lodger",
+    "cardText": "At the end of Action Time, put vibe counters on this Penguin equal to the number of Fishsicles you have.",
+    "artUrl": "1066",
+    "border": "Green",
+    "rarity": "Rare",
+    "vibe": 1,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "MissTweeny",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Miss Tweeny",
+    "cardText": "Whenever you win Vibe Check, double the number of Fishsicles you have.",
+    "artUrl": "1048",
+    "border": "Green",
+    "rarity": "Rare",
+    "vibe": 8,
+    "cost": {
+      "amount": 8,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "SirVibesalil",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Sir Vibesalil",
+    "cardText": "Fishsicles used to pay this card's Fish cost count for 2 Fish. At the start of Action Time, draw a card.",
+    "artUrl": "1027",
+    "border": "Green",
+    "rarity": "Mythic",
+    "vibe": 21,
+    "cost": {
+      "amount": 16,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "FishingTrip",
+    "color": "Green",
+    "type": "Action",
+    "name": "Fishing Trip",
+    "cardText": "Flop all Penguins in your huddle. You get a Fishsicle for each Green Penguin flopped this way.",
+    "artUrl": "1132",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "MysteryOfTheEverlastingFish",
+    "color": "Green",
+    "type": "Action",
+    "name": "Mystery of the Everlasting Fish",
+    "cardText": "You get a Fishsicle. Whenever you use a Fishsicle, if this card is in your ice, return it to your hand.",
+    "artUrl": "1143",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "OverwhelmWithFish",
+    "color": "Green",
+    "type": "Action",
+    "name": "Overwhelm With Fish",
+    "cardText": "Choose a Penguin. If its vibe is equal to or less than the number of Fishsicles you have, ice it.",
+    "artUrl": "1128",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "BeALilEvil",
+    "color": "Green",
+    "type": "Action",
+    "name": "Be a Lil Evil",
+    "cardText": "As an additional cost to play this Action, ice a card from your hand.  Choose an Action with a single choice, cancel it, and copy that Action. (You make new choices for the copy).",
+    "artUrl": "1038",
+    "border": "Green",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "BeWeirdAndSilly",
+    "color": "Green",
+    "type": "Action",
+    "name": "Be Weird and Silly",
+    "cardText": "Choose an Action, cancel it, and return it to its owner's hand. Draw a card. You get a Fishsicle.",
+    "artUrl": "1079",
+    "border": "Green",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "CaptureTheMoment",
+    "color": "Green",
+    "type": "Action",
+    "name": "Capture the Moment",
+    "cardText": "Choose a Penguin. Unflop it and put vibe counters on it equal to the number of Fishsicles you have.",
+    "artUrl": "1148",
+    "border": "Green",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 4,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LookInside",
+    "color": "Green",
+    "type": "Action",
+    "name": "Look Inside",
+    "cardText": "Choose a Penguin, Relic, or Rod. Return it to its owner's hand. Its owner ices a card from their hand.",
+    "artUrl": "1102",
+    "border": "Green",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 5,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "NoWay",
+    "color": "Green",
+    "type": "Action",
+    "name": "No Way!",
+    "cardText": "You can only play this Action if it's face-down as a Rod. Flip this card over to play it. Choose a Penguin with vibe 3 or less and ice it.",
+    "artUrl": "1061",
+    "border": "Green",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilGardenkeeper",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Lil Gardenkeeper",
+    "cardText": "Whenever a Location enters play, you get a Fishsicle.",
+    "artUrl": "1015",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 3,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilFrosty",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Lil Frosty",
+    "cardText": "",
+    "artUrl": "1090",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 1,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilWhoHoops",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Lil Who Hoops",
+    "cardText": "At the end of Action Time, ice this Penguin. [ACT] _F_: Draw a card.",
+    "artUrl": "1023",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": 1,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilContemplator",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Lil Contemplator",
+    "cardText": "Whenever any number of Lils become unflopped, put a vibe counter on this Penguin.",
+    "artUrl": "1022",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": 1,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilMilkmaid",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Lil Milkmaid",
+    "cardText": "This Penguin's vibe is twice the number of cards in your opponent's hand.",
+    "artUrl": "1126",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilWaker",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Lil Waker",
+    "cardText": "[ACT] _F_, pick two cards in your ice and put them on the bottom of your deck: Choose a flopped non-Silly Penguin and unflop it.",
+    "artUrl": "1017",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 3,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "TinaWhoTears",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Tina Who Tears",
+    "cardText": "When this Penguin enters the huddle, you may choose a Relic. If you do, turn it face-down as a Rod.",
+    "artUrl": "1097",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": 1,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "TheHeraldOfHorizons",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "The Herald of Horizons",
+    "cardText": "[ACT] _F_: Boost the vibe of every Lil in your huddle by 2 for the rest of this Cycle.",
+    "artUrl": "1124",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": 5,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilJelly",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Lil Jelly",
+    "cardText": "[ACT] _F_, ice a card from your hand: Draw a card.",
+    "artUrl": "1042",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "BlizzbyTheSwift",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Blizzby the Swift",
+    "cardText": "[ACT] _B__Y_, _F_: Choose a flopped Lil and ice it.",
+    "artUrl": "1095",
+    "border": "Blue",
+    "rarity": "Rare",
+    "vibe": 1,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "PenguinWhoWakes",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Penguin Who Wakes",
+    "cardText": "[ACT] _F_: Choose a flopped non-Silly Lil and unflop it.",
+    "artUrl": "1068",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 3,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilMocker",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "liL mOCkeR",
+    "cardText": "Whenever this Penguin becomes unflopped, if it's not at the Unfloppening, choose a Penguin and flop it.",
+    "artUrl": "1043",
+    "border": "Blue",
+    "rarity": "Rare",
+    "vibe": 3,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "Marilyl",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Marilyl",
+    "cardText": "When this Penguin enters the huddle, each player ices the top two cards of their deck.",
+    "artUrl": "1145",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 7,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "BinkusWhoEatsTheStars",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Binkus, Who Eats the Stars",
+    "cardText": "Playable from ice. As you play Binkus, put up to thirteen cards from your opponent's ice on the bottom of their deck to reduce Binkus' cost by that amount. Binkus' vibe is twice the number of Penguin cards in your opponent's ice.",
+    "artUrl": "1049",
+    "border": "Blue",
+    "rarity": "Mythic",
+    "vibe": null,
+    "cost": {
+      "amount": 13,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilDragonrider",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Lil Dragonrider",
+    "cardText": "When this Penguin enters the huddle, pick up to two cards in your opponent's ice and put them on top of their deck in any order. (Your opponent knows the order).",
+    "artUrl": "1002",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 5,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "IsThisARod",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Is This a Rod",
+    "cardText": "Choose a Rod. Return it to its owner's hand. If it wasn't a Rod you owned, its owner gets a Fishsicle.",
+    "artUrl": "1024",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "AnOfferYouCantRefuse",
+    "color": "Blue",
+    "type": "Action",
+    "name": "An Offer You Can't Refuse",
+    "cardText": "Choose an unflopped Lil. Put it on top of its owner's deck.",
+    "artUrl": "1039",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "OooShiny",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Ooo, Shiny",
+    "cardText": "Choose a Lil or choose a Penguin with vibe 6 or less. At the end of Action Time, unflop that Penguin.",
+    "artUrl": "1119",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "TieGame",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Tie Game",
+    "cardText": "Each player ices a Penguin in their huddle.",
+    "artUrl": "1120",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "WinTheRace",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Win the Race",
+    "cardText": "Choose a flopped Penguin in your huddle and unflop it. Ice that Penguin at the end of this Cycle.",
+    "artUrl": "1118",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "GoWithTheFlow",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Go With the Flow",
+    "cardText": "Each player draws cards equal to the number of unflopped Lils in their huddle.",
+    "artUrl": "1134",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "TurnToRod",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Turn to Rod",
+    "cardText": "Choose a Penguin and turn it face-down as a Rod.",
+    "artUrl": "1149",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "FourOfAKind",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Four of a Kind",
+    "cardText": "Choose four Penguins in your huddle with the same name. You win the game.",
+    "artUrl": "1084",
+    "border": "Blue",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 4,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "ForceOfLil",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Force of Lil",
+    "cardText": "Choose an Action and cancel it. You may play this Action without paying its Pudge cost if there are at least five flopped Lils in your huddle.",
+    "artUrl": "1074",
+    "border": "Blue",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 5,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "Inconceivable",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Inconceivable!",
+    "cardText": "You can only play this Action if it's face-down as a Rod. Flip this card over to play it. Choose a Lil and a non-Lil Penguin. Unflop those Penguins.",
+    "artUrl": "1063",
+    "border": "Blue",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilMoonlight",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Lil Moonlight",
+    "cardText": "",
+    "artUrl": "1091",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 1,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilQuaker",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Lil Quaker",
+    "cardText": "[ACT] _F_, pick two Location cards in your ice and put them on the bottom of your deck: Draw a card.",
+    "artUrl": "1019",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "PenguinWhoQuakes",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Penguin Who Quakes",
+    "cardText": "When this Penguin enters the huddle, reveal the top card of your deck. If it's a Relic card with Fish cost 4 or less, draw it. If not, put it on the bottom of your deck.",
+    "artUrl": "1071",
+    "border": "Purple",
+    "rarity": "Rare",
+    "vibe": 1,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilLucky",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Lil Lucky",
+    "cardText": "Whenever another Purple Penguin  in your huddle or a Relic you control is iced, you get a Fishsicle.",
+    "artUrl": "1030",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 3,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilSoloAdventurer",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Lil Solo Adventurer",
+    "cardText": "Whenever a Location enters play, draw a card. Whenever another Lil Solo Adventurer enters a huddle, ice this Penguin.",
+    "artUrl": "1146",
+    "border": "Purple",
+    "rarity": "Uncommon",
+    "vibe": 3,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilSpaceCadet",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Lil Space Cadet",
+    "cardText": "This Penguin's vibe is twice the number of Relic cards in your ice.",
+    "artUrl": "1008",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilSurprised",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Lil Surprised",
+    "cardText": "Whenever a Location enters play, put 2 vibe counters on this Penguin.",
+    "artUrl": "1083",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "BeckyBreaker",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Becky Breaker",
+    "cardText": "[ACT] _F_: Choose a Relic you don't control. Swap it with a Relic card in its owner's ice.",
+    "artUrl": "1099",
+    "border": "Purple",
+    "rarity": "Uncommon",
+    "vibe": 1,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "PebblingtonTheBrave",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Pebblington the Brave",
+    "cardText": "[ACT] _P__R_, _F_: Choose a flopped Lil and ice it.",
+    "artUrl": "1093",
+    "border": "Purple",
+    "rarity": "Rare",
+    "vibe": 1,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilDetective",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Lil Detective",
+    "cardText": "Whenever you draw a card, put a vibe counter on this Penguin.",
+    "artUrl": "1136",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilLookout",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Lil Lookout",
+    "cardText": "When this Penguin enters the huddle, search your deck for a Location card, reveal it, shuffle your deck, and put it second from the top.",
+    "artUrl": "1142",
+    "border": "Purple",
+    "rarity": "Uncommon",
+    "vibe": 3,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "TheWardenOfWind",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "The Warden of Wind",
+    "cardText": "Whenever a Lil wins Vibe Check, its controller draws a card.",
+    "artUrl": "1123",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 3,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "BeBigAndGoofy",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Be Big and Goofy",
+    "cardText": "Choose a Lil. That Penguin is no longer a Lil for the rest of this Cycle. Draw a card.",
+    "artUrl": "1078",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilWhoSlides",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Lil Who Slides",
+    "cardText": "Whenever this Penguin is chosen, ice it.",
+    "artUrl": "1147",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 11,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilWhosDownBad",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Lil Who's Down Bad",
+    "cardText": "When this Penguin enters the huddle, each player draws a card.",
+    "artUrl": "1127",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 7,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilDrippy",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Lil Drippy",
+    "cardText": "This Penguin can only [ACT] if you control a Location. [ACT] _F_: Pick a Location card in your ice with a different name than the Location in play. Put it into play.",
+    "artUrl": "1080",
+    "border": "Purple",
+    "rarity": "Mythic",
+    "vibe": 3,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "PetitePourer",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Petite Pourer",
+    "cardText": "Whenever you play a Relic, choose a Penguin and flop it.",
+    "artUrl": "1028",
+    "border": "Purple",
+    "rarity": "Rare",
+    "vibe": 9,
+    "cost": {
+      "amount": 8,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilWhoScoops",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Lil Who Scoops",
+    "cardText": "When this Penguin enters the huddle, each player may ice a Relic they control. If they do, they draw a card.",
+    "artUrl": "1025",
+    "border": "Purple",
+    "rarity": "Uncommon",
+    "vibe": 3,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "PhoneHome",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Phone Home",
+    "cardText": "Choose a Penguin and a Location. Ice the one with the lower Fish cost. If there's a tie, ice them both.",
+    "artUrl": "1116",
+    "border": "Purple",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "ThrowSomeSnow",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Throw Some Snow",
+    "cardText": "Choose a Penguin with an [ACT]. Ice that Penguin.",
+    "artUrl": "1117",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "Distract",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Distract",
+    "cardText": "Pick a card in your ice. Return it to your hand.",
+    "artUrl": "1045",
+    "border": "Purple",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "CheekySidequest",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Cheeky Sidequest",
+    "cardText": "Choose a Location. Search your deck for a Location card with Fish cost 1 greater than the chosen Location's Fish cost. Put it into play. Shuffle your deck.",
+    "artUrl": "1131",
+    "border": "Purple",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "Pudgticate",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Pudgticate",
+    "cardText": "Ice all Relics.",
+    "artUrl": "1141",
+    "border": "Purple",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 4,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "NotToday",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Not Today!",
+    "cardText": "You can only play this Action if it's face-down as a Rod. Flip this card over to play it. Choose an Action and cancel it. Its controller draws two cards.",
+    "artUrl": "1062",
+    "border": "Purple",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "WizardOfFeathers",
+    "color": "Blue, Red",
+    "type": "Penguin",
+    "name": "Wizard of Feathers",
+    "cardText": "",
+    "artUrl": "1053",
+    "border": "Red Blue",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue, Red"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "WizardOfDreams",
+    "color": "Yellow, Green",
+    "type": "Penguin",
+    "name": "Wizard of Dreams",
+    "cardText": "",
+    "artUrl": "1054",
+    "border": "Yellow Green",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow, Green"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "WizardOfTheVoid",
+    "color": "Green, Purple",
+    "type": "Penguin",
+    "name": "Wizard of the Void",
+    "cardText": "",
+    "artUrl": "1051",
+    "border": "Green Purple",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green, Purple"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "WizardOfTheDeep",
+    "color": "Yellow, Blue",
+    "type": "Penguin",
+    "name": "Wizard of the Deep",
+    "cardText": "",
+    "artUrl": "1050",
+    "border": "Blue Yellow",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow, Blue"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "WizardOfBalloons",
+    "color": "Red, Purple",
+    "type": "Penguin",
+    "name": "Wizard of Balloons",
+    "cardText": "",
+    "artUrl": "1052",
+    "border": "Purple Red",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red, Purple"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "BuildABurrito",
+    "color": "Green, Purple",
+    "type": "Action",
+    "name": "Build a Burrito",
+    "cardText": "Choose an Action and cancel it. Put it on top of its owner's deck.",
+    "artUrl": "1032",
+    "border": "Green Purple",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Green, Purple"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LayerALasagna",
+    "color": "Red, Purple",
+    "type": "Action",
+    "name": "Layer a Lasagna",
+    "cardText": "Choose a Lil with vibe 5 or less or a non-Lil Penguin with vibe 5 or greater and ice it.",
+    "artUrl": "1034",
+    "border": "Purple Red",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Red, Purple"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "FlipAFlapjack",
+    "color": "Blue, Red",
+    "type": "Action",
+    "name": "Flip a Flapjack",
+    "cardText": "Choose a Lil with vibe 1. Return it to its owner's hand. Draw a card.",
+    "artUrl": "1033",
+    "border": "Red Blue",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Blue, Red"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "MeltAMarshmallow",
+    "color": "Yellow, Blue",
+    "type": "Action",
+    "name": "Melt a Marshmallow",
+    "cardText": "Reveal the top three cards of your deck. Pick one and draw it. Put the rest on the bottom of your deck.",
+    "artUrl": "1035",
+    "border": "Blue Yellow",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow, Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "DunkADonut",
+    "color": "Yellow, Green",
+    "type": "Action",
+    "name": "Dunk a Donut",
+    "cardText": "Pick an Action card in your ice. Until the end of this Cycle, you can play that Action. If that Action would be put into your ice this Cycle, put it on the bottom of your deck instead.",
+    "artUrl": "1036",
+    "border": "Yellow Green",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow, Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilWithBalloon",
+    "color": "Colorless",
+    "type": "Penguin",
+    "name": "Lil With Balloon",
+    "cardText": "",
+    "artUrl": "1031",
+    "border": "Colorless",
+    "rarity": "Common",
+    "vibe": 5,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LilBellyacher",
+    "color": "Colorless",
+    "type": "Penguin",
+    "name": "Lil Bellyacher",
+    "cardText": "[ACT] _F_, ice another Penguin in your huddle: Search your deck for a Lil Penguin card with Fish cost  1 greater than the Fish cost of the Penguin you iced. Put it into your huddle. Shuffle your deck.",
+    "artUrl": "1029",
+    "border": "Colorless",
+    "rarity": "Rare",
+    "vibe": 3,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "PenguinWhoseBellyAches",
+    "color": "Colorless",
+    "type": "Penguin",
+    "name": "Penguin Whose Belly Aches",
+    "cardText": "[ACT] _F_: Choose a Rod you control and return it to its owner's hand.",
+    "artUrl": "1073",
+    "border": "Colorless",
+    "rarity": "Mythic",
+    "vibe": 5,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "OperaHouse",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Opera House",
+    "cardText": "At the start of Action Time, each player with exactly six cards in their hand draws a card. Whenever another Location enters play, ice this Relic. ",
+    "artUrl": "1111",
+    "border": "Relic",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "MountFuji",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Mount Fuji",
+    "cardText": "When this Relic enters play, each player names a Penguin card. Penguins with those names lose all abilities. Whenever another Location enters play, ice this Relic.",
+    "artUrl": "1112",
+    "border": "Relic",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "HalfPastChill",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Half Past Chill",
+    "cardText": "When this Relic enters play, choose a Penguin and put a vibe counter on it.   ",
+    "artUrl": "1055",
+    "border": "Relic",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "GlowAndBehold",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Glow and Behold",
+    "cardText": "When this Relic enters play, choose a Penguin and put a vibe counter on it.   ",
+    "artUrl": "1056",
+    "border": "Relic",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "FeatherForecast",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Feather Forecast",
+    "cardText": "When this Relic enters play, choose a Penguin and put a vibe counter on it.   ",
+    "artUrl": "1057",
+    "border": "Relic",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "StatueOfLiberty",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Statue of Liberty",
+    "cardText": "When this Relic enters play, each player chooses a Penguin in their huddle. Put them under this card until it leaves play. Whenever another Location enters play, ice this Relic.",
+    "artUrl": "1103",
+    "border": "Relic",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "PotionCommotion",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Potion Commotion",
+    "cardText": "When this Relic enters play, choose a Penguin and put a vibe counter on it.   ",
+    "artUrl": "1058",
+    "border": "Relic",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "GlassAct",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Glass Act",
+    "cardText": "When this Relic enters play, choose a Penguin and put a vibe counter on it.   ",
+    "artUrl": "1059",
+    "border": "Relic",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "EasterIsland",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Easter Island",
+    "cardText": "Whenever a player plays an Action, that player boosts the vibes of Penguins in their huddle by 1 for the rest of this Cycle. Whenever another Location enters play, ice this Relic.",
+    "artUrl": "1106",
+    "border": "Relic",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "LeaningTower",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Leaning Tower",
+    "cardText": "Flopped Penguins now participate in Vibe Check, and unflopped Penguins do not participate in Vibe Check. Whenever another Location enters play, ice this Relic.",
+    "artUrl": "1107",
+    "border": "Relic",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "EiffelTower",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Eiffel Tower",
+    "cardText": "Enter the Huddle abilities trigger twice. Whenever another Location enters play, ice this Relic.  ",
+    "artUrl": "1109",
+    "border": "Relic",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "Pongo",
+    "color": "Colorless",
+    "type": "Penguin",
+    "name": "Pongo",
+    "cardText": "When Pongo enters the huddle, put 8 vibe counters on it. Pongo doesn't participate in Vibe Check. Whenever you play an Action, remove a vibe counter from Pongo. If it was the last one, search your deck for a Penguin card,",
+    "artUrl": "1067",
+    "border": "Colorless",
+    "rarity": "Rare",
+    "vibe": 0,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "NyanCat",
+    "color": "Colorless",
+    "type": "Penguin(ish)",
+    "name": "Nyan Cat",
+    "cardText": "When Nyan Cat enters the huddle, put 2 vibe counters on it. Whenever Nyan Cat is flopped, remove a vibe counter from it.   ",
+    "artUrl": "1138",
+    "border": "Colorless",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "Sphinx",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Sphinx",
+    "cardText": "Whenever a Penguin enters a huddle, its controller draws a card. Whenever another Location enters play, ice this Relic.  ",
+    "artUrl": "1104",
+    "border": "Relic",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 7,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "GreatWall",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Great Wall",
+    "cardText": "Whenever a player plays an Action, that player copies that Action and makes new choices for the copy. Whenever another Location enters play, ice this Relic. ",
+    "artUrl": "1105",
+    "border": "Relic",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 8,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "Colosseum",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Colosseum",
+    "cardText": "Players may look at and play the top card of their decks. Players cannot play cards from anywhere else. Whenever another Location enters play, ice this Relic. ",
+    "artUrl": "1110",
+    "border": "Relic",
+    "rarity": "Mythic",
+    "vibe": null,
+    "cost": {
+      "amount": 9,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "Arches",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Arches",
+    "cardText": "Whenever a Penguin is flopped, its owner gets a Fishsicle. Whenever another Location enters play, ice this Relic.  ",
+    "artUrl": "1108",
+    "border": "Relic",
+    "rarity": "Mythic",
+    "vibe": null,
+    "cost": {
+      "amount": 10,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": false,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  },
+  {
+    "id": "ParasolRod",
+    "color": "Colorless",
+    "type": "Rod",
+    "name": "Parasol Rod",
+    "cardText": "When this Rod enters play, choose a Rod and unflop it.   ",
+    "artUrl": "1021",
+    "border": "Rod",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Lotl"
+  }
+]

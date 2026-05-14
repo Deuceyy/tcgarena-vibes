@@ -1,0 +1,4790 @@
+[
+  {
+    "id": "ContemplationPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Contemplation Penguin",
+    "cardText": "||||",
+    "artUrl": "102",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 1,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BambooPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Bamboo Penguin",
+    "cardText": "||||",
+    "artUrl": "125",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 4,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "CarnivalPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Carnival Penguin",
+    "cardText": "Whenever you play your third Action this Cycle,|choose a Penguin with vibe 6 or less.|Ice that Penguin.||",
+    "artUrl": "142",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 10,
+    "cost": {
+      "amount": 7,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ChefPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Chef Penguin",
+    "cardText": "Whenever you play a Red Action, you get a Fishsicle.|(A Fishsicle produces one _T_, then goes away).|||",
+    "artUrl": "140",
+    "border": "Red",
+    "rarity": "Rare",
+    "vibe": 2,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ChubWhoLivesforAction",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Chub, Who Lives for Action",
+    "cardText": "Whenever you play a Red Action,|put 2 vibe counters on this Penguin.|||",
+    "artUrl": "143",
+    "border": "Red",
+    "rarity": "Rare",
+    "vibe": 6,
+    "cost": {
+      "amount": 8,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ChubopolisUnleashed",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Chubopolis Unleashed",
+    "cardText": "Whenever you play a Red Action, put 2 vibe counters|on this Penguin. When this Penguin is iced from play,|draw cards equal to half the number of vibe counters| on this Penguin rounded up.|",
+    "artUrl": "144",
+    "border": "Red",
+    "rarity": "Mythic",
+    "vibe": 10,
+    "cost": {
+      "amount": 10,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "InsomniacPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Insomniac Penguin",
+    "cardText": "Whenever you play an Action, unflop this Penguin.||||",
+    "artUrl": "139",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": 2,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "JugglingPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Juggling Penguin",
+    "cardText": "Enters flopped.|This Penguin doesn't unflop at the Unfloppening.|At the end of Action Time, if you played an Action,|unflop this Penguin.|",
+    "artUrl": "2",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 5,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "KeyturningPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Keyturning Penguin",
+    "cardText": "When this Penguin enters the huddle,|look at the top card of your deck.|You may put it on the bottom of your deck.||",
+    "artUrl": "128",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "MukbangPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Mukbang Penguin",
+    "cardText": "When this Penguin enters the huddle,|the next time you would draw a card, skip it.|||",
+    "artUrl": "132",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": 9,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PeaceOutPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Peace Out Penguin",
+    "cardText": "This Penguin can only [ACT]|if you've played a Red Action this Cycle.|[ACT] _F_: Choose up to two Penguins with|total vibe 10 or less. Ice those Penguins|and this Penguin.",
+    "artUrl": "130",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": 4,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PopcornPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Popcorn Penguin",
+    "cardText": "At the start of Action Time,|ice the Penguin in play that's vibing the least.|If there's a tie, you pick.||",
+    "artUrl": "134",
+    "border": "Red",
+    "rarity": "Rare",
+    "vibe": 2,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "RedMegaPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Red Mega Penguin",
+    "cardText": "As an additional cost to play this Penguin,|ice a Penguin in your huddle. Whenever an Action|is played that chooses this Penguin, copy that Action.|(You make new choices for the copy).|",
+    "artUrl": "74",
+    "border": "Red",
+    "rarity": "Mythic",
+    "vibe": 6,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "RedWizardPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Red Wizard Penguin",
+    "cardText": "Enters flopped.||||",
+    "artUrl": "126",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 2,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "RibbonDancingPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Ribbon-Dancing Penguin",
+    "cardText": "Whenever you play a Red Action,|this Penguin can produce _R__R_ for the rest of this Cycle.|||",
+    "artUrl": "133",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 4,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "RiskTakingPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Risk-Taking Penguin",
+    "cardText": "When this Penguin enters the huddle,|choose a Penguin with vibe 6 or less and flip a coin.|If heads, return the chosen Penguin|to its owner's hand.|",
+    "artUrl": "136",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "RunItBackPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Run-It-Back Penguin",
+    "cardText": "[ACT] _F_: Pick a Red Action card in your ice|and return it to your hand. Ice this Penguin.|||",
+    "artUrl": "135",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ScreamingPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Screaming Penguin",
+    "cardText": "Whenever you play an Action,|boost this Penguin's vibe by 2|for the rest of this Cycle.||",
+    "artUrl": "137",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": 6,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SerenePenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Serene Penguin",
+    "cardText": "Whenever your opponent plays an Action,|flop this Penguin.|||",
+    "artUrl": "141",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": 10,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "StrikingSwordsmanPenguin",
+    "color": "Red",
+    "type": "Penguin",
+    "name": "Striking Swordsman Penguin",
+    "cardText": "[ACT] _F_: This Penguin can't be iced this Cycle.||||",
+    "artUrl": "131",
+    "border": "Red",
+    "rarity": "Rare",
+    "vibe": 4,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ADropinAttention",
+    "color": "Red",
+    "type": "Action",
+    "name": "A Drop in Attention",
+    "cardText": "You can only play this Action if it's the fourth|Action you've played this Cycle.|Ice all Penguins.||",
+    "artUrl": "145",
+    "border": "Red",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "AgainAgain",
+    "color": "Red",
+    "type": "Action",
+    "name": "Again, Again",
+    "cardText": "The next time you play an Action|with Pudge cost _R__R_ this Cycle, copy that Action.|(You make new choices for the copy).||",
+    "artUrl": "148",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BearishSentiment",
+    "color": "Red",
+    "type": "Action",
+    "name": "Bearish Sentiment",
+    "cardText": "Choose a Penguin.|It loses all abilities for the rest of this Cycle.|Draw a card.||",
+    "artUrl": "151",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BestSeatsintheHouse",
+    "color": "Red",
+    "type": "Action",
+    "name": "Best Seats in the House",
+    "cardText": "If you have no cards in hand, draw two cards.||||",
+    "artUrl": "154",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "GrowTogether",
+    "color": "Red",
+    "type": "Action",
+    "name": "Grow Together",
+    "cardText": "Each player may choose a Penguin.|Put a vibe counter on each of those Penguins.|Draw a card.||",
+    "artUrl": "155",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "HaveanEncore",
+    "color": "Red",
+    "type": "Action",
+    "name": "Have an Encore",
+    "cardText": "You can only play this Action|if you've played another Red Action this Cycle.|Choose up to two Red Penguins in your huddle|and unflop those Penguins. Draw a card.|",
+    "artUrl": "149",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "HeadsIWinTailsYouLose",
+    "color": "Red",
+    "type": "Action",
+    "name": "Heads I Win, Tails You Lose",
+    "cardText": "Choose a player and flip a coin. If heads,|you draw a card. If tails, the chosen player|ices a card from their hand.||",
+    "artUrl": "147",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "HittheHighNote",
+    "color": "Red",
+    "type": "Action",
+    "name": "Hit the High Note",
+    "cardText": "Choose a Relic and return it to its owner's hand.|Draw a card.|||",
+    "artUrl": "138",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "NotaRodAnymore",
+    "color": "Red",
+    "type": "Action",
+    "name": "Not a Rod Anymore!",
+    "cardText": "You can only play this Action if it's face-down|as a Rod. Flip this card over to play it.|Choose a Penguin and boost its vibe|by 2 for the rest of this Cycle.|",
+    "artUrl": "54",
+    "border": "Red",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 0,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PutonaShow",
+    "color": "Red",
+    "type": "Action",
+    "name": "Put on a Show",
+    "cardText": "Choose a Penguin with vibe 10 or greater.|Ice that Penguin.|||",
+    "artUrl": "156",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "StandintheRain",
+    "color": "Red",
+    "type": "Action",
+    "name": "Stand in the Rain",
+    "cardText": "Unflop all Penguins. Draw a card.||||",
+    "artUrl": "157",
+    "border": "Red",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SunburnaPenguin",
+    "color": "Red",
+    "type": "Action",
+    "name": "Sunburn a Penguin",
+    "cardText": "Choose a Penguin with vibe|4 or less. Ice that Penguin.|||",
+    "artUrl": "150",
+    "border": "Red",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "TrustFall",
+    "color": "Red",
+    "type": "Action",
+    "name": "Trust Fall",
+    "cardText": "Choose a Penguin.|Reduce its vibe by 2 for the rest of this Cycle.|If that Penguin has 0 vibe, it can't be iced this Cycle.|Draw a card.|",
+    "artUrl": "152",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "UseWhoopeeCushion",
+    "color": "Red",
+    "type": "Action",
+    "name": "Use Whoopee Cushion",
+    "cardText": "Choose a Penguin with vibe 10 or greater.|Reduce its vibe by 4 for the rest of this Cycle.|Draw a card.||",
+    "artUrl": "153",
+    "border": "Red",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Red"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Red"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "DashingSwordsmanPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Dashing Swordsman Penguin",
+    "cardText": "At the start of Action Time, if you don't have|the Baron, boost this Penguin's vibe by 4|for the rest of this Cycle.||",
+    "artUrl": "180",
+    "border": "Yellow",
+    "rarity": "Rare",
+    "vibe": 4,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "DaydreamingPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Daydreaming Penguin",
+    "cardText": "[ACT] _F_: Choose a Penguin with vibe 2 or less.|Ice that Penguin and ice this Penguin.|||",
+    "artUrl": "171",
+    "border": "Yellow",
+    "rarity": "Uncommon",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ExtrovertPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Extrovert Penguin",
+    "cardText": "Whenever another Penguin enters your huddle,|put 2 vibe counters on this Penguin.|||",
+    "artUrl": "183",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "FlyingPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Flying Penguin",
+    "cardText": "||||",
+    "artUrl": "172",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 1,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "HyperPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Hyper Penguin",
+    "cardText": "Whenever a Penguin in your huddle wins|Vibe Check, reveal the top card of your deck.|If it's a Yellow Penguin card, put it into your hand.|If you do, ice a card from your hand.|",
+    "artUrl": "179",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 4,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "JubilantPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Jubilant Penguin",
+    "cardText": "Whenever a Penguin in your huddle|wins Vibe Check, draw a card.|||",
+    "artUrl": "188",
+    "border": "Yellow",
+    "rarity": "Rare",
+    "vibe": 4,
+    "cost": {
+      "amount": 7,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "LuckyPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Lucky Penguin",
+    "cardText": "When this Penguin is put in your ice from play,|you may pick a Yellow Penguin card in your ice|with vibe 2 or less and put it into your huddle.||",
+    "artUrl": "181",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 4,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "MysteriousPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Mysterious Penguin",
+    "cardText": "When this Penguin enters the huddle,|if there are four or more Yellow Penguins|in your huddle including this one,|choose a Penguin and flop it.|",
+    "artUrl": "103",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 4,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "NapengulonLegendaryHost",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Napengulon, Legendary Host",
+    "cardText": "At the start of Action Time,|put vibe counters on this Penguin equal to|the number of Yellow Penguins in your huddle.",
+    "artUrl": "192",
+    "border": "Yellow",
+    "rarity": "Mythic",
+    "vibe": 12,
+    "cost": {
+      "amount": 10,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PaperPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Paper Penguin",
+    "cardText": "Whenever another Rock, Paper, or Scissor Penguin|enters a huddle, put a vibe counter on this Penguin.|Rock Penguins do not participate in Vibe Check.||",
+    "artUrl": "177",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinoftheFallingLeaves",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Penguin of the Falling Leaves",
+    "cardText": "||||",
+    "artUrl": "168",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 4,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinThatDoesntMindGoodbyes",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Penguin That Doesn't Mind Goodbyes",
+    "cardText": "Whenever another Yellow Penguin|in your huddle is iced, draw a card.|||",
+    "artUrl": "186",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinWhoMightBringaPlusOne",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Penguin Who Might Bring a Plus One",
+    "cardText": "When this Penguin enters the huddle,|reveal the top card of your deck. If it's|a Penguin card with Fish cost 2 or less,|draw it. If not, put it on the bottom|of your deck.",
+    "artUrl": "30",
+    "border": "Yellow",
+    "rarity": "Rare",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinWhoSpillstheTea",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Penguin Who Spills the Tea",
+    "cardText": "[ACT] _F_: Pick a Yellow Penguin card in your ice|with vibe 4 or less. Return it to your hand|and return this Penguin to its owner's hand.||",
+    "artUrl": "189",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 7,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinWhoZooms",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Penguin Who Zooms",
+    "cardText": "As an additional cost to play this Penguin,|return a non-Speedy Penguin from your huddle|to its owner's hand.||",
+    "artUrl": "169",
+    "border": "Yellow",
+    "rarity": "Uncommon",
+    "vibe": 3,
+    "cost": {
+      "amount": 1,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinWhosLatetotheParty",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Penguin Who's Late to the Party",
+    "cardText": "When this Penguin enters the huddle,|if your huddle has at least three more Penguins|than your opponent's huddle including this Penguin,|it enters with 6 vibe counters.|",
+    "artUrl": "174",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ShockingPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Shocking Penguin",
+    "cardText": "When this Penguin enters the huddle,|return each other Penguin in your huddle|to its owner's hand.||",
+    "artUrl": "185",
+    "border": "Yellow",
+    "rarity": "Uncommon",
+    "vibe": 10,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PotStirringPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Pot-Stirring Penguin",
+    "cardText": "As long as your huddle has three or more Penguins,|including this one, this Penguin can produce _Y__Y_.|||",
+    "artUrl": "69",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "RockPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Rock Penguin",
+    "cardText": "Whenever another Rock, Paper, or Scissor Penguin|enters a huddle, put a vibe counter on this Penguin.|Scissors Penguins do not participate in Vibe Check.||",
+    "artUrl": "178",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ScissorsPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Scissors Penguin",
+    "cardText": "Whenever another Rock, Paper, or Scissor Penguin|enters a huddle, put a vibe counter on this Penguin.|Paper Penguins do not participate in Vibe Check.||",
+    "artUrl": "176",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "Shapenguzad",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Shapenguzad",
+    "cardText": "Enters flopped.|When this Penguin enters the huddle, move all|vibe counters from all Penguins in your huddle|onto this Penguin.|",
+    "artUrl": "190",
+    "border": "Yellow",
+    "rarity": "Rare",
+    "vibe": 0,
+    "cost": {
+      "amount": 7,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PleepemWhoStandsAlone",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Pleepem, Who Stands Alone",
+    "cardText": "When this Penguin enters the huddle,|put 2 vibe counters on it for each other|Yellow Penguin in your huddle.||",
+    "artUrl": "187",
+    "border": "Yellow",
+    "rarity": "Rare",
+    "vibe": 4,
+    "cost": {
+      "amount": 8,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ShyPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Shy Penguin",
+    "cardText": "You can only play this Penguin|if you've played another Penguin this turn.|||",
+    "artUrl": "184",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": 10,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "YellowMegaPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Yellow Mega Penguin",
+    "cardText": "As an additional cost to play this Penguin,|ice a Penguin in your huddle. When this Penguin|enters the huddle, reveal the top card of your deck.|If it's a Yellow Penguin card, put it into your huddle.|",
+    "artUrl": "191",
+    "border": "Yellow",
+    "rarity": "Mythic",
+    "vibe": 6,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "YellowWizardPenguin",
+    "color": "Yellow",
+    "type": "Penguin",
+    "name": "Yellow Wizard Penguin",
+    "cardText": "Enters flopped.||||",
+    "artUrl": "170",
+    "border": "Yellow",
+    "rarity": "Uncommon",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 2,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BuddyUp",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "Buddy Up",
+    "cardText": "For the rest of this Cycle,|Yellow Penguins in your huddle gain the ability|\"[ACT] _F_: Choose a Penguin and flop it\".||",
+    "artUrl": "194",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Yellow"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ChecktheYellowPages",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "Check the Yellow Pages",
+    "cardText": "Reveal the top three cards of your deck.|Put all the Yellow Penguin cards you reveal|into your hand. Put the rest on the bottom|of your deck in any order.|",
+    "artUrl": "196",
+    "border": "Yellow",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Yellow"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PutYourFlippersintheAir",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "Put Your Flippers in the Air",
+    "cardText": "Choose a Penguin.|Boost its vibe by twice the number of|Yellow Penguins in your huddle|for the rest of this Cycle.|",
+    "artUrl": "198",
+    "border": "Yellow",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 4,
+      "color": "Yellow"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "JointheTrend",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "Join the Trend",
+    "cardText": "Choose a Penguin in your huddle and ice it.|Turn the top card of your deck into a Rod.|Return this Action to your hand.||",
+    "artUrl": "197",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 4,
+      "color": "Yellow"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "NotYourKeys",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "Not Your Keys",
+    "cardText": "Choose a Penguin and ice it.||||",
+    "artUrl": "199",
+    "border": "Yellow",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 4,
+      "color": "Yellow"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PrepareforaWildNight",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "Prepare for a Wild Night",
+    "cardText": "Reveal the top five cards of your deck.|Put all the Action cards you reveal into your hand.| Put the rest on the bottom of your deck in any order.||",
+    "artUrl": "195",
+    "border": "Yellow",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Yellow"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "TheyreTwins",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "They're Twins",
+    "cardText": "Choose a Penguin in your huddle.|Search your deck for a Penguin card|with the same name and put it into your hand.|Shuffle your deck.|",
+    "artUrl": "193",
+    "border": "Yellow",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Yellow"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "WhataTwist",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "What a Twist!",
+    "cardText": "You can only play this Action if it's face-down|as a Rod. Flip this card over to play it.|Choose a Penguin and unflop it.||",
+    "artUrl": "57",
+    "border": "Yellow",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 0,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "YumYum",
+    "color": "Yellow",
+    "type": "Action",
+    "name": "Yum Yum",
+    "cardText": "Ice all Penguins.||||",
+    "artUrl": "200",
+    "border": "Yellow",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 5,
+      "color": "Yellow"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Yellow"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BalancedPenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Balanced Penguin",
+    "cardText": "[ACT] _G__G_, _F_: You get a Fishsicle.|(A Fishsicle produces one _T_, then goes away).|||",
+    "artUrl": "70",
+    "border": "Green",
+    "rarity": "Rare",
+    "vibe": 4,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BlossomingPenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Blossoming Penguin",
+    "cardText": "||||",
+    "artUrl": "77",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 4,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "CuriousPenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Curious Penguin",
+    "cardText": "||||",
+    "artUrl": "65",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "FlowerArrangingPenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Flower-Arranging Penguin",
+    "cardText": "Whenever a Penguin in your huddle wins Vibe Check,|put two vibe counters on that Penguin.|||",
+    "artUrl": "75",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "GreenMegaPenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Green Mega Penguin",
+    "cardText": "As an additional cost to play this Penguin,|ice a Penguin in your huddle. This Penguin can't|be chosen by anything. At the start of Action Time,|put a vibe counter on this Penguin.|",
+    "artUrl": "47",
+    "border": "Green",
+    "rarity": "Mythic",
+    "vibe": 6,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "GreenWizardPenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Green Wizard Penguin",
+    "cardText": "Enters flopped.||||",
+    "artUrl": "59",
+    "border": "Green",
+    "rarity": "Uncommon",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 2,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "KaratePenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Karate Penguin",
+    "cardText": "As an additional cost to play this Penguin,|ice a card from your hand.|||",
+    "artUrl": "68",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 10,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PeppyPenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Peppy Penguin",
+    "cardText": "At the start of Action Time,|if this Penguin has vibe 6 or greater,|boost its vibe by 6 for the rest of this Cycle.||",
+    "artUrl": "72",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "OrnateSwordsmanPenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Ornate Swordsman Penguin",
+    "cardText": "Whenever this Penguin wins Vibe Check,|each opponent chooses a Penguin in their huddle.|Ice those Penguins.||",
+    "artUrl": "64",
+    "border": "Green",
+    "rarity": "Rare",
+    "vibe": 2,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguininColor",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Penguin in Color",
+    "cardText": "When this Penguin enters the huddle,|you get a Fishsicle. (A Fishsicle produces one _T_,|then goes away).||",
+    "artUrl": "73",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 7,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinWhoIstheGarden",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Penguin Who Is the Garden",
+    "cardText": "Whenever this Penguin wins Vibe Check,|the loser of Vibe Check skips the next time|they would draw a card.||",
+    "artUrl": "71",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 4,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinWhoseGardenGrows",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Penguin Whose Garden Grows",
+    "cardText": "At the start of Action Time,|if another Penguin in your huddle is, or is tied with,|the Penguin in play that's vibing the most,|boost this Penguin's vibe by 6|for the rest of this Cycle.",
+    "artUrl": "61",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinWithGreatMystique",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Penguin With Great Mystique",
+    "cardText": "This Penguin doesn't participate in Vibe Check.|[ACT] _F_: Put 6 vibe counters on this Penguin.|||",
+    "artUrl": "78",
+    "border": "Green",
+    "rarity": "Uncommon",
+    "vibe": 6,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "KoiPenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Koi Penguin",
+    "cardText": "When this Penguin enters the huddle,|choose a Penguin with the highest vibe in your huddle|and put vibe counters on it until it's tied|for the highest vibe among all Penguins.|",
+    "artUrl": "66",
+    "border": "Green",
+    "rarity": "Rare",
+    "vibe": 4,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PointsrichPenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Pointsrich Penguin",
+    "cardText": "||||",
+    "artUrl": "76",
+    "border": "Green",
+    "rarity": "Uncommon",
+    "vibe": 10,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SirVibesalot",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Sir Vibesalot",
+    "cardText": "||||",
+    "artUrl": "79",
+    "border": "Green",
+    "rarity": "Mythic",
+    "vibe": 20,
+    "cost": {
+      "amount": 10,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "RomulusWhoRoams",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Romulus Who Roams",
+    "cardText": "||||",
+    "artUrl": "5",
+    "border": "Green",
+    "rarity": "Rare",
+    "vibe": 12,
+    "cost": {
+      "amount": 7,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SketchingPenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Sketching Penguin",
+    "cardText": "At the start of Action Time, choose a Penguin|and boost its vibe by 4 for the rest of this Cycle.|If you lose or tie Vibe Check, ice Sketching Penguin.||",
+    "artUrl": "175",
+    "border": "Green",
+    "rarity": "Uncommon",
+    "vibe": 4,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SlidingPenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Sliding Penguin",
+    "cardText": "At the start of Action Time, choose a Penguin|and boost its vibe by 2 for the rest of this Cycle.|||",
+    "artUrl": "67",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 4,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "StargazingPenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Stargazing Penguin",
+    "cardText": "When this Penguin enters the huddle,|choose a Penguin with vibe 6 or less|and put a vibe counter on it.||",
+    "artUrl": "62",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SuccessPenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Success Penguin",
+    "cardText": "[ACT] _F_: Choose another Penguin in your huddle.|Boost that Penguin's vibe by 6 for the rest of this Cycle|and ice this Penguin.||",
+    "artUrl": "63",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 4,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "WindowWashingPenguin",
+    "color": "Green",
+    "type": "Penguin",
+    "name": "Window-Washing Penguin",
+    "cardText": "When this Penguin enters the huddle,|choose a Penguin in your huddle|and put 4 vibe counters on it.||",
+    "artUrl": "127",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ChiselfromStone",
+    "color": "Green",
+    "type": "Action",
+    "name": "Chisel from Stone",
+    "cardText": "Choose a Green Penguin in your huddle.|Count its vibe, divide it by four, and round up.|Draw that many cards.||",
+    "artUrl": "90",
+    "border": "Green",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 4,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "CleanUpGood",
+    "color": "Green",
+    "type": "Action",
+    "name": "Clean Up Good",
+    "cardText": "Choose a Green Penguin in your huddle.|Unflop it and double its vibe|for the rest of this Cycle.||",
+    "artUrl": "89",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "EscapeinTime",
+    "color": "Green",
+    "type": "Action",
+    "name": "Escape in Time",
+    "cardText": "Cancel an [ACT] or Action|that chooses a Penguin in your huddle.|||",
+    "artUrl": "84",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "EverybodyStayClam",
+    "color": "Green",
+    "type": "Action",
+    "name": "Everybody Stay Clam",
+    "cardText": "Flop all Penguins in play. Draw a card.||||",
+    "artUrl": "88",
+    "border": "Green",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "GotEm",
+    "color": "Green",
+    "type": "Action",
+    "name": "Got 'Em!",
+    "cardText": "You can only play this Action if it's face-down|as a Rod. Flip this card over to play it.|Choose a Penguin with vibe 2 or less.|Ice that Penguin.|",
+    "artUrl": "55",
+    "border": "Green",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 0,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "LostintheSauce",
+    "color": "Green",
+    "type": "Action",
+    "name": "Lost in the Sauce",
+    "cardText": "Choose a Penguin and put 2 vibe counters on it.||||",
+    "artUrl": "81",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "RaidtheSnacks",
+    "color": "Green",
+    "type": "Action",
+    "name": "Raid the Snacks",
+    "cardText": "You get two Fishsicles.|(A Fishsicle produces one _T_, then goes away).|||",
+    "artUrl": "82",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "LucaSavesthePenguins",
+    "color": "Green",
+    "type": "Action",
+    "name": "Luca Saves the Penguins",
+    "cardText": "Choose a Penguin in your opponent's huddle.|It joins your huddle.|||",
+    "artUrl": "91",
+    "border": "Green",
+    "rarity": "Mythic",
+    "vibe": null,
+    "cost": {
+      "amount": 5,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SendOff",
+    "color": "Green",
+    "type": "Action",
+    "name": "Send Off",
+    "cardText": "Choose a Penguin in your huddle. Ice that Penguin.|You get Fishsicles equal to half that Penguin's vibe,|rounded up. (A Fishsicle produces one _T_,|then goes away).|",
+    "artUrl": "86",
+    "border": "Green",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "TooCoolforSchool",
+    "color": "Green",
+    "type": "Action",
+    "name": "Too Cool for School",
+    "cardText": "You can only play this Action if there's|a Penguin in your huddle that's vibing more than|your opponent's highest vibing Penguin|by 6 or more. Ice all Penguins.|",
+    "artUrl": "87",
+    "border": "Green",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "WalktheRunway",
+    "color": "Green",
+    "type": "Action",
+    "name": "Walk the Runway",
+    "cardText": "Choose a Penguin in your huddle|and a Penguin in your opponent's huddle.|Ice the one that's vibing the least.|If there's a tie, ice them both.|",
+    "artUrl": "83",
+    "border": "Green",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "YouDroppedThis",
+    "color": "Green",
+    "type": "Action",
+    "name": "You Dropped This",
+    "cardText": "As an additional cost to play this Action,|ice a Penguin in your huddle with vibe|6 or greater. Choose a Penguin and put|6 vibe counters on it.|",
+    "artUrl": "85",
+    "border": "Green",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Green"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Green"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BashfulSwordsmanPenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Bashful Swordsman Penguin",
+    "cardText": "Whenever a Penguin wins Vibe Check,|if this Penguin is unflopped, ice that Penguin.|(They still win Vibe Check).||",
+    "artUrl": "7",
+    "border": "Blue",
+    "rarity": "Rare",
+    "vibe": 14,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BlueMegaPenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Blue Mega Penguin",
+    "cardText": "As an additional cost to play this Penguin,|ice a Penguin in your huddle. You can look|at the top card of your deck at any time.|If it's a Relic card, you can play it.|",
+    "artUrl": "36",
+    "border": "Blue",
+    "rarity": "Mythic",
+    "vibe": 6,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BlueWizardPenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Blue Wizard Penguin",
+    "cardText": "Enters flopped.||||",
+    "artUrl": "1",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 2,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BottlePenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Bottle Penguin",
+    "cardText": "[ACT] _F_: Ice the top card of each player's deck.||||",
+    "artUrl": "129",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "CannonballPenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Cannonball Penguin",
+    "cardText": "When this Penguin enters the huddle, choose a player.|Ice the top three cards of their deck.|||",
+    "artUrl": "12",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "AmazingPenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Amazing Penguin",
+    "cardText": "||||",
+    "artUrl": "110",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ThawingPenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Thawing Penguin",
+    "cardText": "Penguins can't win Vibe Check|unless their vibe is greater than four times|the number of Thawing Penguins in your huddle.||",
+    "artUrl": "8",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": 4,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "DragonriderPenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Dragonrider Penguin",
+    "cardText": "When this Penguin enters the huddle,|you may pick a card in your opponent's ice|and put it on top of their deck.||",
+    "artUrl": "15",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": 6,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "FactFindingPenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Fact-Finding Penguin",
+    "cardText": "Whenever an Action card|is put in your opponent's ice from their deck,|put 2 vibe counters on this Penguin.||",
+    "artUrl": "14",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": 4,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "FrostythePenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Frosty the Penguin",
+    "cardText": "||||",
+    "artUrl": "80",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 4,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "JealousPenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Jealous Penguin",
+    "cardText": "When this Penguin enters the huddle,|pick a Penguin card in your opponent's ice|and put that card on top of this one. This Penguin|inherits all characteristics of that card.|",
+    "artUrl": "13",
+    "border": "Blue",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "MissChiefKeeperofKeys",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Miss Chief, Keeper of Keys",
+    "cardText": "[ACT] _F_: Choose an opponent. Ice cards|from the top of their deck equal to|half this Penguin's vibe, rounded up.||",
+    "artUrl": "17",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "MissPlaceForgetterofThings",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Miss Place, Forgetter of Things",
+    "cardText": "When this Penguin enters the huddle,|pick a card in your opponent's ice.|Cards with the same name as that card can't be|played while this Penguin is in your huddle.|",
+    "artUrl": "19",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PainterPenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Painter Penguin",
+    "cardText": "As an additional cost to play this Penguin,|pick four Action cards in your ice and put them|on the bottom of your deck.||",
+    "artUrl": "16",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 10,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinCaughtinFishingLine",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Penguin Caught in Fishing Line",
+    "cardText": "[ACT] _F_: Flop all Penguins. Ice this Penguin.||||",
+    "artUrl": "11",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinWhoExplorestheReef",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Penguin Who Explores the Reef",
+    "cardText": "Whenever a Penguin in your huddle|wins Vibe Check, choose an opponent.|Ice cards from the top of that player's deck|equal to half that Penguin's vibe, rounded up.|",
+    "artUrl": "20",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": 6,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinWhosOK",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Penguin Who's OK",
+    "cardText": "Whenever you draw a card, choose a player.|Ice the top card of their deck.|||",
+    "artUrl": "4",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinWithHoops",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Penguin With Hoops",
+    "cardText": "[ACT] _F_: Each player draws a card.||||",
+    "artUrl": "9",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": 4,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PortholePenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Porthole Penguin",
+    "cardText": "Whenever you lose the Baron,|look at the top card of your opponent's deck.|You may put it on the bottom of their deck.||",
+    "artUrl": "6",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 4,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "RadChillWhosSuperCool",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Rad Chill, Who's Super Cool",
+    "cardText": "Enters flopped.|[ACT] _F_: Choose an opponent.|Ice cards from the top of their deck|equal to the number of cards|that player already has in their ice.",
+    "artUrl": "22",
+    "border": "Blue",
+    "rarity": "Mythic",
+    "vibe": 10,
+    "cost": {
+      "amount": 10,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SneakyPenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Sneaky Penguin",
+    "cardText": "At the start of your turn,|look at the top card of your deck.|You may put it on the bottom of your deck.||",
+    "artUrl": "3",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 4,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "TidalPenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Tidal Penguin",
+    "cardText": "[ACT] _F_: Choose an opponent and ice all cards|in their hand. They draw that many cards, then|ice that many cards from the top of their deck.||",
+    "artUrl": "21",
+    "border": "Blue",
+    "rarity": "Rare",
+    "vibe": 10,
+    "cost": {
+      "amount": 9,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "WaterfallPenguin",
+    "color": "Blue",
+    "type": "Penguin",
+    "name": "Waterfall Penguin",
+    "cardText": "At the start of Action Time,|if you don't have the Baron, choose an opponent.|Ice the top three cards of their deck.||",
+    "artUrl": "18",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BedtimeStory",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Bedtime Story",
+    "cardText": "Choose a Penguin with vibe less than|or equal to twice the number of Penguin cards|its controller has in their ice. Ice that Penguin.||",
+    "artUrl": "26",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BridgeWithLayerZero",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Bridge With Layer Zero",
+    "cardText": "Choose a Penguin in your opponent's huddle.|Swap it with a Penguin card in its owner's ice.|(That Penguin enters the huddle, but is not played).||",
+    "artUrl": "28",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "CoolStoryBro",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Cool Story Bro!",
+    "cardText": "You can only play this Action if it's face-down|as a Rod. Flip this card over to play it. Choose|a player and ice the top two cards of their deck.||",
+    "artUrl": "58",
+    "border": "Blue",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 0,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "DontTrustVerify",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Don't Trust, Verify",
+    "cardText": "Name a card. Reveal the top card of your deck.|If it's the named card, put it into your hand|and draw an additional card. Otherwise,|put it back on top of your deck.|",
+    "artUrl": "24",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "IngeniousIdea",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Ingenious Idea",
+    "cardText": "Draw two cards. Pick a card in your hand|and put it on top of your deck.|||",
+    "artUrl": "31",
+    "border": "Blue",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "KeepDigging",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Keep Digging",
+    "cardText": "Choose an opponent. They reveal their hand.|Pick a non-Penguin card from it and ice that card.|||",
+    "artUrl": "29",
+    "border": "Blue",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "QuestionableMethods",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Questionable Methods",
+    "cardText": "Pick an Action card in your opponent's ice.|Until the end of this Cycle, you can play that Action.|You can spend Pudge of any color to play that Action.||",
+    "artUrl": "33",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SendItTooHard",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Send It Too Hard",
+    "cardText": "You can only play this Action|if your opponent has fifteen or more|cards in their ice. Ice all Penguins.||",
+    "artUrl": "27",
+    "border": "Blue",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SpringaLeak",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Spring a Leak",
+    "cardText": "Choose an Action and cancel it.||||",
+    "artUrl": "25",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ThreeWisePenguins",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Three Wise Penguins",
+    "cardText": "Choose two Rods you don't control|and return each to its owner's hand.|||",
+    "artUrl": "32",
+    "border": "Blue",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "UnlikelyFriends",
+    "color": "Blue",
+    "type": "Action",
+    "name": "Unlikely Friends",
+    "cardText": "Choose a Penguin in your opponent's huddle.|That player may ice cards from the top of their deck|equal to that Penguin's vibe. If they do not,| ice that Penguin.|",
+    "artUrl": "173",
+    "border": "Blue",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Blue"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Blue"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "AbsentMindedPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Absent-Minded Penguin",
+    "cardText": "[ACT] _F_: Choose a Penguin in your huddle and ice it.|Put two vibe counters on this Penguin.|||",
+    "artUrl": "107",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "AbstractPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Abstract Penguin",
+    "cardText": "[ACT] _F_, Ice a card from your hand:|Put 2 vibe counters on this Penguin.|||",
+    "artUrl": "111",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 4,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "AmbitiousPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Ambitious Penguin",
+    "cardText": "Whenever a player plays an Action,|if this Penguin is unflopped and|you have less than fifteen cards in your ice,| return this Penguin to its owner's hand.|",
+    "artUrl": "60",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 12,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "AscendingPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Ascending Penguin",
+    "cardText": "Whenever a Penguin enters your huddle,|ice cards from the top of your deck equal to|half that Penguin's vibe, rounded up.||",
+    "artUrl": "108",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BizmoPhDCandidate",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Bizmo, PhD Candidate",
+    "cardText": "When this Penguin enters the huddle,|if you have no cards in your deck,|you win the game.||",
+    "artUrl": "95",
+    "border": "Purple",
+    "rarity": "Uncommon",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BrainyPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Brainy Penguin",
+    "cardText": "When this Penguin enters the huddle,|ice up to two cards in your hand.|Draw that many cards.||",
+    "artUrl": "104",
+    "border": "Purple",
+    "rarity": "Rare",
+    "vibe": 2,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BubblestheGreatandPowerful",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Bubbles, the Great and Powerful",
+    "cardText": "This Penguin's vibe is equal to|twice the number of Penguin cards in your ice.|||",
+    "artUrl": "113",
+    "border": "Purple",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 8,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BunkusWhoIstheStars",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Bunkus, Who Is the Stars",
+    "cardText": "Playable from ice. As you play Bunkus,|put any number of cards from your ice on the bottom|of your deck to reduce Bunkus' cost by that amount.|Bunkus' vibe is twice the number of|Penguin cards in your ice.",
+    "artUrl": "114",
+    "border": "Purple",
+    "rarity": "Mythic",
+    "vibe": null,
+    "cost": {
+      "amount": 12,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "CharmingSwordsmanPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Charming Swordsman Penguin",
+    "cardText": "This Penguin can only [ACT] if its vibe is,|or is tied with, the highest vibe in your huddle.|[ACT] _F_: Choose a Penguin|in your opponent's huddle and flop it.|",
+    "artUrl": "106",
+    "border": "Purple",
+    "rarity": "Rare",
+    "vibe": 4,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "CookingPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Cooking Penguin",
+    "cardText": "Playable from ice by icing a Rod you control|in addition to paying its Fish cost.|||",
+    "artUrl": "50",
+    "border": "Purple",
+    "rarity": "Uncommon",
+    "vibe": 4,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "DemolitionPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Demolition Penguin",
+    "cardText": "When this Penguin enters the huddle,|you may pick a card in your ice.|If you do, put it face-down as a Rod|and ice a Rod you control.|",
+    "artUrl": "10",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "GalaxyPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Galaxy Penguin",
+    "cardText": "When this Penguin enters the huddle,|search your deck for a Penguin card|and put it in your ice. Shuffle your deck.||",
+    "artUrl": "109",
+    "border": "Purple",
+    "rarity": "Uncommon",
+    "vibe": 6,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "GardenkeeperPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Gardenkeeper Penguin",
+    "cardText": "As an additional cost to play this Penguin,|pick five cards in your ice and put them|on the bottom of your deck. When this Penguin|enters the huddle, ice the top five cards of your deck.|",
+    "artUrl": "112",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinWithaFlag",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Penguin With a Flag",
+    "cardText": "As an additional cost to play this Penguin,|ice a Rod you control.|||",
+    "artUrl": "100",
+    "border": "Purple",
+    "rarity": "Uncommon",
+    "vibe": 10,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "MoonlitPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Moonlit Penguin",
+    "cardText": "||||",
+    "artUrl": "98",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 4,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinWhoBreakstheFourthWall",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Penguin Who Breaks the Fourth Wall",
+    "cardText": "You can't play this Penguin from your|hand. Playable from ice by icing two Rods|you control in addition to paying its Fish cost.||",
+    "artUrl": "96",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 9,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinWhoCarriestheBerg",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Penguin Who Carries the Berg",
+    "cardText": "Whenever one of your Rods is iced from play,|put 2 vibe counters on this Penguin.|||",
+    "artUrl": "93",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinWhoRunstheLift",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Penguin Who Runs the Lift",
+    "cardText": "At the start of Action Time,|if there are eight or more cards in your ice,|boost this Penguin's vibe by 6|for the rest of this Cycle.|",
+    "artUrl": "94",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ProsperousPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Prosperous Penguin",
+    "cardText": "When this Penguin enters the huddle,|you may pick an Action card in your ice with|Pudge cost 2. If you do, you can play it this Cycle.|(You must still pay its costs).|",
+    "artUrl": "101",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PurpleMegaPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Purple Mega Penguin",
+    "cardText": "As an additional cost to play this Penguin,|ice a Penguin in your huddle. When this Penguin|enters the huddle, you may pick a card in your ice|and put it into your hand.|",
+    "artUrl": "182",
+    "border": "Purple",
+    "rarity": "Mythic",
+    "vibe": 6,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PurpleWizardPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Purple Wizard Penguin",
+    "cardText": "Enters flopped.||||",
+    "artUrl": "97",
+    "border": "Purple",
+    "rarity": "Uncommon",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 2,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SpaceCadetPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Space Cadet Penguin",
+    "cardText": "As an additional cost to play this Penguin,|ice a card from your hand. When this Penguin|enters the huddle, choose a Rod you control|and a Rod you don't control. Ice those Rods.|",
+    "artUrl": "105",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "UnmaskedPenguin",
+    "color": "Purple",
+    "type": "Penguin",
+    "name": "Unmasked Penguin",
+    "cardText": "||||",
+    "artUrl": "92",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "AdventureSquad",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Adventure Squad",
+    "cardText": "Choose a Penguin in your huddle|and a Penguin in your opponent's huddle.|Ice the one that's vibing the most.|If there's a tie, ice them both.|",
+    "artUrl": "116",
+    "border": "Purple",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ChangePerspective",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Change Perspective",
+    "cardText": "Reveal the top three cards of your deck.|Your opponent separates those into two groups.|Pick one group and put it into your hand.|Ice the cards in the other group.|",
+    "artUrl": "120",
+    "border": "Purple",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ChaseYourDreams",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Chase Your Dreams",
+    "cardText": "You can't play this Action from your hand.|Playable from ice. Draw a card, then put this Action|on the bottom of your deck.||",
+    "artUrl": "121",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "GatherTogether",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Gather Together",
+    "cardText": "Pick a Penguin card in your ice. During your next turn,|you can play that card by icing a Rod you control|in addition to paying its Fish cost.||",
+    "artUrl": "122",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 4,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "HaveaPhilosophicalDebate",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Have a Philosophical Debate",
+    "cardText": "Choose a Penguin. You may move cards|from your ice to the bottom of your deck|equal to that Penguin's Fish cost.|If you do, ice that Penguin.|",
+    "artUrl": "117",
+    "border": "Purple",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "OneWithHistory",
+    "color": "Purple",
+    "type": "Action",
+    "name": "One With History",
+    "cardText": "Return all Penguin cards in your ice to your hand.||||",
+    "artUrl": "124",
+    "border": "Purple",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 7,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "OverwhelmWithKnowledge",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Overwhelm With Knowledge",
+    "cardText": "Playable from ice by icing a Rod you control|instead of paying this card's Pudge cost.|If you play this Action from your ice,|put this card on the bottom of your deck.|Draw a card.",
+    "artUrl": "115",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SickPull",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Sick Pull!",
+    "cardText": "You can only play this Action if it's face-down|as a Rod. Flip this card over to play it.|Each player draws a card.||",
+    "artUrl": "56",
+    "border": "Purple",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 0,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SpringBreak",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Spring Break",
+    "cardText": "You can only play this Action if you have|fifteen or more cards in your ice.|Ice all Penguins.||",
+    "artUrl": "123",
+    "border": "Purple",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 4,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "StudyAllNight",
+    "color": "Purple",
+    "type": "Action",
+    "name": "Study All Night",
+    "cardText": "Draw two cards. Ice two cards from your hand.||||",
+    "artUrl": "118",
+    "border": "Purple",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "Wut",
+    "color": "Purple",
+    "type": "???",
+    "name": "Wut?",
+    "cardText": "When this card is put in your ice,|ice the top card of your deck.|||",
+    "artUrl": "119",
+    "border": "Purple",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Purple"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "AhaPenguin",
+    "color": "Colorless",
+    "type": "Penguin",
+    "name": "Aha Penguin",
+    "cardText": "Whenever an opponent wins Vibe Check,|put 2 vibe counters on this Penguin.|||",
+    "artUrl": "40",
+    "border": "Colorless",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BoatTyingPenguin",
+    "color": "Colorless",
+    "type": "Penguin",
+    "name": "Boat-Tying Penguin",
+    "cardText": "[ACT] _F_: Choose a Penguin with vibe|equal to or less than the number of|Penguins in your huddle and put|2 vibe counters on it.|",
+    "artUrl": "48",
+    "border": "Colorless",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "HungryPenguin",
+    "color": "Colorless",
+    "type": "Penguin",
+    "name": "Hungry Penguin",
+    "cardText": "[ACT] _F_: Choose a Penguin with vibe greater than|this Penguin's vibe and flop it.|||",
+    "artUrl": "49",
+    "border": "Colorless",
+    "rarity": "Uncommon",
+    "vibe": 6,
+    "cost": {
+      "amount": 6,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "InquisitivePenguin",
+    "color": "Colorless",
+    "type": "Penguin",
+    "name": "Inquisitive Penguin",
+    "cardText": "This Penguin doesn't participate in Vibe Check.||||",
+    "artUrl": "34",
+    "border": "Colorless",
+    "rarity": "Common",
+    "vibe": 1,
+    "cost": {
+      "amount": 0,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "IntrovertPenguin",
+    "color": "Colorless",
+    "type": "Penguin",
+    "name": "Introvert Penguin",
+    "cardText": "This Penguin doesn't participate in Vibe Check|unless it's the only Penguin in your huddle.|||",
+    "artUrl": "37",
+    "border": "Colorless",
+    "rarity": "Common",
+    "vibe": 6,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PrimoWizardPenguin",
+    "color": "Colorless",
+    "type": "Penguin",
+    "name": "Primo Wizard Penguin",
+    "cardText": "Enters flopped.|This Penguin can produce _RB_ of any color.|||",
+    "artUrl": "41",
+    "border": "Colorless",
+    "rarity": "Rare",
+    "vibe": 2,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PenguinWithaRodofHisOwn",
+    "color": "Colorless",
+    "type": "Penguin",
+    "name": "Penguin With a Rod of His Own",
+    "cardText": "Enters flopped.|This Penguin can produce _T_ as if it were a Rod.|||",
+    "artUrl": "44",
+    "border": "Colorless",
+    "rarity": "Uncommon",
+    "vibe": 4,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "TeleporterPenguin",
+    "color": "Colorless",
+    "type": "Penguin",
+    "name": "Teleporter Penguin",
+    "cardText": "At the start of your turn,|ice all Penguins with vibe 4 or less.|This Penguin can't have vibe counters placed on it.||",
+    "artUrl": "51",
+    "border": "Colorless",
+    "rarity": "Rare",
+    "vibe": 4,
+    "cost": {
+      "amount": 7,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SkydivingPenguin",
+    "color": "Colorless",
+    "type": "Penguin",
+    "name": "Skydiving Penguin",
+    "cardText": "Whenever the Baron changes sides, draw a card.||||",
+    "artUrl": "52",
+    "border": "Colorless",
+    "rarity": "Uncommon",
+    "vibe": 2,
+    "cost": {
+      "amount": 8,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SupportiveFriend",
+    "color": "Colorless",
+    "type": "Penguin",
+    "name": "Supportive Friend",
+    "cardText": "When this Penguin enters the huddle,|you may choose a Penguin|and put 2 vibe counters on it.||",
+    "artUrl": "38",
+    "border": "Colorless",
+    "rarity": "Common",
+    "vibe": 2,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "ChaliceofEverflowingPudge",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Chalice of Everflowing Pudge",
+    "cardText": "When you play this Relic, pick a color.|Penguins in your huddle can produce Pudge of that color.|||",
+    "artUrl": "35",
+    "border": "Relic",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "CookiesofTruth",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Cookies of Truth",
+    "cardText": "Players play with the top card|of their deck revealed.|||",
+    "artUrl": "23",
+    "border": "Relic",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 2,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "DummyThiccDiscoBall",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Dummy Thicc Disco Ball",
+    "cardText": "At the start of your turn, return all Penguins|in your opponent's huddles to their owner's hands.|||",
+    "artUrl": "53",
+    "border": "Relic",
+    "rarity": "Mythic",
+    "vibe": null,
+    "cost": {
+      "amount": 15,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "InspiringStory",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Inspiring Story",
+    "cardText": "At the start of Action Time, boost the vibe|of every Penguin in your huddle by 2|for the rest of this Cycle.||",
+    "artUrl": "99",
+    "border": "Relic",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "LayerTwoTechnology",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Layer Two Technology",
+    "cardText": "All Penguin cards cost one less _T_ to play.||||",
+    "artUrl": "45",
+    "border": "Relic",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "OrbofHopium",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Orb of Hopium",
+    "cardText": "At the start of Action Time,|each player draws a card.|||",
+    "artUrl": "42",
+    "border": "Relic",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "SilentSnowGlobe",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Silent Snow Globe",
+    "cardText": "All Penguins lose all abilities.|You can't play additional Penguins|as long as this Relic remains in play.|(Penguins can still produce Pudge).|",
+    "artUrl": "46",
+    "border": "Relic",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 5,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "TheEndoftheRainbow",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "The End of the Rainbow",
+    "cardText": "At the start of Action Time,|if your huddle contains a Penguin of each color,|draw a card.||",
+    "artUrl": "43",
+    "border": "Relic",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": {
+      "amount": 4,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "TooMuchCaffeine",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Too Much Caffeine",
+    "cardText": "At the start of Action Time,|each player may choose a Penguin.|Flop those Penguins.||",
+    "artUrl": "146",
+    "border": "Relic",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 1,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "WizardCap",
+    "color": "Colorless",
+    "type": "Relic",
+    "name": "Wizard Cap",
+    "cardText": "Whenever a Wizard Penguin produces Pudge,|they produce another Pudge of that same color.|||",
+    "artUrl": "39",
+    "border": "Relic",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": {
+      "amount": 3,
+      "color": "Fish"
+    },
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "BounceHouseRod",
+    "color": "Colorless",
+    "type": "Rod",
+    "name": "Bounce House Rod",
+    "cardText": "Enters flopped.|When you play this Rod, return|a Rod you control to its owner's hand.|(You can look at your face-down Rods at any time).|",
+    "artUrl": "163",
+    "border": "Rod",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "CalligraphyRod",
+    "color": "Colorless",
+    "type": "Rod",
+    "name": "Calligraphy Rod",
+    "cardText": "You can only play this Rod if you control|five or more Rods. Whenever you play|your second Penguin this Cycle,|unflop this Rod.|",
+    "artUrl": "161",
+    "border": "Rod",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "FreezingRod",
+    "color": "Colorless",
+    "type": "Rod",
+    "name": "Freezing Rod",
+    "cardText": "This Rod produces _T__T_.|Whenever you use this Rod, ice a Rod you control.|||",
+    "artUrl": "166",
+    "border": "Rod",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "HotRod",
+    "color": "Colorless",
+    "type": "Rod",
+    "name": "Hot Rod",
+    "cardText": "You can only play this Rod if you control|five or more Rods. At the start of Action Time,|boost the vibe of the Penguin in your huddle|with the highest vibe by 1 for the rest of this Cycle.|If there's a tie, you pick.",
+    "artUrl": "158",
+    "border": "Rod",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "PudgyManRod",
+    "color": "Colorless",
+    "type": "Rod",
+    "name": "Pudgy Man Rod",
+    "cardText": "Whenever another one of your rods is iced from play|unflop this rod.",
+    "artUrl": "167",
+    "border": "Rod",
+    "rarity": "Uncommon",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "RodofCamaraderie",
+    "color": "Colorless",
+    "type": "Rod",
+    "name": "Rod of Camaraderie",
+    "cardText": "Enters flopped.|As an additional cost to play this Rod,|ice three unflopped Rods you control.|This Rod produces _T_ for each Penguin in your huddle.|",
+    "artUrl": "165",
+    "border": "Rod",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "UmbrellaRod",
+    "color": "Colorless",
+    "type": "Rod",
+    "name": "Umbrella Rod",
+    "cardText": "You can only play this Rod if you control|five or more Rods. Whenever you play|your fourth Action each Cycle, copy it.|(You make new choices for the copy).|",
+    "artUrl": "162",
+    "border": "Rod",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "RodofCheesySlices",
+    "color": "Colorless",
+    "type": "Rod",
+    "name": "Rod of Cheesy Slices",
+    "cardText": "You can only play this Rod if you control|five or more Rods. Whenever you use this Rod,|choose an opponent and ice the top two cards|of their deck.|",
+    "artUrl": "159",
+    "border": "Rod",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "TrampolineRod",
+    "color": "Colorless",
+    "type": "Rod",
+    "name": "Trampoline Rod",
+    "cardText": "Enters flopped.|When you play this Rod, return a Penguin|in your huddle to its owner's hand.||",
+    "artUrl": "164",
+    "border": "Rod",
+    "rarity": "Common",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "RodofCharmingMelodies",
+    "color": "Colorless",
+    "type": "Rod",
+    "name": "Rod of Charming Melodies",
+    "cardText": "You can only play this Rod if you control|five or more Rods. Whenever you use this Rod,|ice the top two cards of your deck.||",
+    "artUrl": "160",
+    "border": "Rod",
+    "rarity": "Rare",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  },
+  {
+    "id": "Fishsicle",
+    "color": "Colorless",
+    "type": "Fishsicle",
+    "name": "Fishsicle",
+    "cardText": "",
+    "artUrl": "",
+    "border": "Rod",
+    "rarity": "",
+    "vibe": null,
+    "cost": null,
+    "pudge": {
+      "amount": 1,
+      "color": "Colorless"
+    },
+    "turnedOn": true,
+    "comments": [
+      ""
+    ],
+    "set": "Eth"
+  }
+]

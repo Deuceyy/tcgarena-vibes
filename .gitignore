@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+Thumbs.db
+
+# transient working files
+*.tmp
+*.bak
+
+# unpublished sets — drop locally, never commit until approved for release
+sets-private/
+docs/images-private/
