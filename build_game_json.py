@@ -191,7 +191,7 @@ def build_game_json() -> dict:
             "permanents in play (Rods + Huddle, tokens excluded), you win.\n"
             "(7) BARON TOKEN: drag the Baron's Favor token between players to track who holds it."
         ),
-        "cardRotation": "0",
+        "cardRotation": "90",
         "cards": {
             "dataUrl": f"{BASE_URL}/Vibes-CardList.json",
             "cardBack": f"{BASE_URL}/tokens/card-back.png",
@@ -315,7 +315,7 @@ def build_gameplay_mode() -> dict:
                     "showHiddenCardInHistory": False,
                 },
                 "Rods": {
-                    "isHidden": "yes",
+                    "isHidden": "opponent-only",
                     "height": "12",
                     "alignment": "CENTER",
                     "opponentAlignment": False,

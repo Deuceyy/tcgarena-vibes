@@ -6,7 +6,7 @@
     "decksUrl": "https://deuceyy.github.io/tcgarena-vibes/Vibes-Decks.json"
   },
   "customHelp": "VIBES TCG QUICK REFERENCE\n(1) PLAY-AS-ROD: any card in hand may be played face-down to your Rods section to become a Rod (mana). Drag any hand card to Rods and flip it face-down.\n(2) FISH COST: flop (tap) Rods to pay cost.color = 'Fish'. Right-click a Rod -> tap.\n(3) PUDGE COST: flop a Penguin in the Huddle whose pudge.color matches to pay colored cost. The Penguin produces its pudge for the rest of the cycle.\n(4) NEW CYCLE: all flopped (tapped) cards in Rods + Huddle auto-unflop. Both players share the cycle (sharedTurn).\n(5) VIBE CHECK: at the end of each cycle, compare highest-vibe Penguin between players. Winner gets the Baron's Favor token. Winner then manually moves top of their deck to Rods; loser manually draws top card to Hand.\n(6) WIN: at the START of a cycle, if you hold the Baron's Favor AND have 15+ permanents in play (Rods + Huddle, tokens excluded), you win.\n(7) BARON TOKEN: drag the Baron's Favor token between players to track who holds it.",
-  "cardRotation": "0",
+  "cardRotation": "90",
   "cards": {
     "dataUrl": "https://deuceyy.github.io/tcgarena-vibes/Vibes-CardList.json",
     "cardBack": "https://deuceyy.github.io/tcgarena-vibes/tokens/card-back.png",
@@ -185,7 +185,7 @@
             "showHiddenCardInHistory": false
           },
           "Rods": {
-            "isHidden": "yes",
+            "isHidden": "opponent-only",
             "height": "12",
             "alignment": "CENTER",
             "opponentAlignment": false,
