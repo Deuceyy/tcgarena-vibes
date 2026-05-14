@@ -258,7 +258,7 @@ def build_gameplay_mode() -> dict:
         "defaultNotes": "Track permanents (Rods + Huddle) and vibe totals here.",
         "tokens": [],
         "countersStartingValues": [0],
-        "hideFacedDownCards": True,
+        "hideFacedDownCards": False,
         "draggableTokens": [
             {
                 "id": "vibe-counter",

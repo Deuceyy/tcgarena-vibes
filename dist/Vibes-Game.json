@@ -84,7 +84,7 @@
       "countersStartingValues": [
         0
       ],
-      "hideFacedDownCards": true,
+      "hideFacedDownCards": false,
       "draggableTokens": [
         {
           "id": "vibe-counter",
