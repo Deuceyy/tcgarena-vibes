@@ -1,6 +1,6 @@
 {
   "name": "Vibes TCG",
-  "menuBackgroundImage": "https://deuceyy.github.io/tcgarena-vibes/tokens/banner.png",
+  "menuBackgroundImage": "https://deuceyy.github.io/tcgarena-vibes/vibes-logo.png",
   "defaultRessources": {
     "backgrounds": [],
     "decksUrl": "https://deuceyy.github.io/tcgarena-vibes/Vibes-Decks.json"

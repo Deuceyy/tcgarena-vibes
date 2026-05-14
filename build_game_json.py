@@ -170,7 +170,7 @@ def build_game_json() -> dict:
     """Build the top-level Vibes-Game.json structure."""
     return {
         "name": "Vibes TCG",
-        "menuBackgroundImage": f"{BASE_URL}/tokens/banner.png",
+        "menuBackgroundImage": f"{BASE_URL}/vibes-logo.png",
         "defaultRessources": {
             "backgrounds": [],
             "decksUrl": f"{BASE_URL}/Vibes-Decks.json",
