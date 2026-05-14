@@ -277,7 +277,7 @@ def build_gameplay_mode() -> dict:
                         "content": [
                             {"section": "Deck",  "style": {"width": "12vh"}},
                             {"section": "Rods",  "style": {"flex": "1"}},
-                            {"section": "Baron", "style": {"width": "18vh", "background": "linear-gradient(180deg, rgba(255,180,0,0.15) 0%, rgba(255,180,0,0) 100%)", "borderRadius": "1vh"}},
+                            {"section": "Baron", "style": {"width": "22vh", "background": "rgba(255, 180, 0, 0.35)", "border": "0.4vh solid rgba(255, 200, 60, 0.95)", "borderRadius": "1vh", "boxShadow": "0 0 2vh rgba(255, 180, 0, 0.6)"}},
                             {"section": "Ice",   "style": {"width": "16vh"}},
                         ],
                         "isSymetricalForOpponents": True,
